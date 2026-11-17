@@ -106,12 +106,128 @@
     <li>Gas Networks Ireland — imbalance prices / SAP framework.</li>
     <li>ONS / National Gas Transmission — official System Average Price of gas dataset.</li>
   </ul>
-  <p><a href="docs/methodology.md">Methodology</a> · <a href="docs/data_sources.md">Data sources</a> · <a href="docs/final_conclusion.md">Final conclusion</a></p>
+  <p><a href="docs/methodology.md">Methodology</a> · <a href="docs/data_sources.md">Data sources</a> · <button type="button" class="ied-inline-link" data-open-conclusion>Final conclusion</button> · <a href="https://github.com/danielsantos2310/Ireland-Electricity-Imports-Analytics./blob/main/notebooks/Ireland_Electricity_Generation_Analytics_Final.ipynb" target="_blank" rel="noreferrer">Final notebook ↗</a></p>
 </div>
+</section>
+
+
+<style id="ied-series-nav-style">
+.ied-series-nav{padding:72px 20px;background:#07131c;color:#f4f8fa;border-top:1px solid #233945}
+.ied-series-nav *{box-sizing:border-box}
+.ied-series-inner{width:min(1180px,100%);margin:0 auto}
+.ied-series-kicker{margin:0 0 8px;color:#69d8e7;font:700 12px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.14em;text-transform:uppercase}
+.ied-series-title{margin:0 0 10px;font:700 clamp(28px,4vw,46px)/1.08 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:-.03em;color:#f4f8fa}
+.ied-series-intro{max-width:760px;margin:0 0 28px;color:#9ab0ba;font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.ied-series-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.ied-series-card{display:flex;min-height:184px;flex-direction:column;text-decoration:none!important;padding:20px;border:1px solid #233945;border-radius:16px;background:#0d1e29;color:#f4f8fa!important;transition:transform .2s ease,border-color .2s ease,background .2s ease}
+.ied-series-card:hover{transform:translateY(-3px);border-color:#69d8e7;background:#102936}
+.ied-series-card[aria-current="page"]{border-color:#7ed8a4;box-shadow:inset 0 0 0 1px rgba(126,216,164,.16)}
+.ied-series-num{color:#69d8e7;font:700 12px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.12em;text-transform:uppercase}
+.ied-series-card[aria-current="page"] .ied-series-num{color:#7ed8a4}
+.ied-series-card strong{display:block;margin:14px 0 8px;font:700 18px/1.25 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#f4f8fa}
+.ied-series-card small{display:block;color:#9ab0ba;font:13px/1.5 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.ied-series-open{margin-top:auto;padding-top:16px;color:#69d8e7;font:700 12px system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.ied-series-current{margin-left:6px;color:#7ed8a4}
+@media(max-width:900px){.ied-series-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){.ied-series-grid{grid-template-columns:1fr}.ied-series-nav{padding:54px 14px}}
+</style>
+<section class="ied-series-nav" id="ireland-energy-data-series" aria-labelledby="ied-series-title">
+  <div class="ied-series-inner">
+    <p class="ied-series-kicker">Ireland Energy &amp; Data Analytics Series</p>
+    <h2 class="ied-series-title" id="ied-series-title">Explore every project in the series</h2>
+    <p class="ied-series-intro">Jump directly to any published analysis. Every project remains independent, but together they build a connected view of Irish electricity demand, prices and generation.</p>
+    <div class="ied-series-grid">
+    <a class="ied-series-card" href="https://danielsantos2310.github.io/Ireland-Data-Center-Energy-research/" >
+      <span class="ied-series-num">Project 01</span>
+      <strong>Data Centre Energy Analytics</strong>
+      <small>Demand growth, grid context and 2035 scenarios</small>
+      <span class="ied-series-open">Open project ↗</span>
+    </a>
+    <a class="ied-series-card" href="https://danielsantos2310.github.io/Ireland-Electricity-Price-Analytics/" >
+      <span class="ied-series-num">Project 02</span>
+      <strong>Electricity Price Analytics</strong>
+      <small>Business electricity prices, drivers and 2035 scenarios</small>
+      <span class="ied-series-open">Open project ↗</span>
+    </a>
+    <a class="ied-series-card" href="https://danielsantos2310.github.io/Ireland-Data-Centre-Demand-Price-Analytics/" >
+      <span class="ied-series-num">Project 03</span>
+      <strong>Data Centre Demand × Price Analytics</strong>
+      <small>Testing whether data-centre demand explains electricity prices</small>
+      <span class="ied-series-open">Open project ↗</span>
+    </a>
+    <a class="ied-series-card" href="https://danielsantos2310.github.io/Ireland-Electricity-Imports-Analytics./" aria-current="page">
+      <span class="ied-series-num">Project 04<span class="ied-series-current">· Current</span></span>
+      <strong>Electricity Generation Analytics</strong>
+      <small>Generation mix, efficiency, fuel exposure and economics</small>
+      <span class="ied-series-open">You are here</span>
+    </a></div>
+  </div>
 </section>
 </main>
 
 <footer><div class="wrap">Ireland Electricity Generation Analytics · Project 04</div></footer>
 <script src="assets/app.js"></script>
+
+<style id="ied-conclusion-modal-style">
+.ied-inline-link{border:0;padding:0;background:none;color:#69d8e7;font:inherit;text-decoration:underline;cursor:pointer}
+.ied-conclusion-modal{position:fixed;inset:0;z-index:9999;display:none;align-items:center;justify-content:center;padding:24px;background:rgba(2,9,14,.82);backdrop-filter:blur(8px)}
+.ied-conclusion-modal.is-open{display:flex}
+.ied-conclusion-dialog{position:relative;width:min(900px,100%);max-height:min(86vh,920px);overflow:auto;border:1px solid #233945;border-radius:20px;background:#0d1e29;color:#f4f8fa;box-shadow:0 28px 90px rgba(0,0,0,.45);padding:34px}
+.ied-conclusion-close{position:sticky;float:right;top:0;border:1px solid #233945;background:#102936;color:#f4f8fa;width:40px;height:40px;border-radius:999px;font-size:24px;line-height:1;cursor:pointer}
+.ied-conclusion-dialog h2{margin:8px 52px 24px 0;font-size:clamp(30px,5vw,48px);line-height:1.05}
+.ied-conclusion-dialog h3{margin:28px 0 8px;font-size:20px;color:#7ed8a4}
+.ied-conclusion-dialog p,.ied-conclusion-dialog li{color:#d9e4e9}
+.ied-conclusion-dialog ol,.ied-conclusion-dialog ul{padding-left:22px}
+.ied-conclusion-highlight{margin:24px 0;padding:18px 20px;border-left:3px solid #69d8e7;background:#102936;border-radius:0 12px 12px 0}
+@media(max-width:600px){.ied-conclusion-modal{padding:10px}.ied-conclusion-dialog{padding:22px;border-radius:14px}}
+</style>
+<div class="ied-conclusion-modal" id="conclusionModal" aria-hidden="true">
+  <article class="ied-conclusion-dialog" role="dialog" aria-modal="true" aria-labelledby="conclusionModalTitle">
+    <button type="button" class="ied-conclusion-close" data-close-conclusion aria-label="Close conclusion">×</button>
+    <p class="ied-series-kicker">Project 04 · Final conclusion</p>
+    <h2 id="conclusionModalTitle">What the evidence says about Ireland's electricity transition</h2>
+
+    <h3>What changed?</h3>
+    <p>Between 2010 and 2025, Ireland's long-run domestic generation series increased only from <strong>26.63 TWh to 29.31 TWh</strong>. The scale changed modestly; the composition changed radically.</p>
+    <p>Wind's share rose from <strong>10.5% to 40.1%</strong>, while gas fell from <strong>64.4% to 47.5%</strong> and coal fell from <strong>13.0% to 1.5%</strong>. By 2025, gas + wind together supplied approximately <strong>87.6%</strong> of the long-run domestic-generation series.</p>
+
+    <h3>What did not disappear?</h3>
+    <p><strong>External energy exposure.</strong> Public thermal generation became somewhat more efficient, rising from about <strong>45.5% to 49.5%</strong>, but its fuel mix became increasingly gas-heavy. Natural gas remained approximately <strong>82.3% import-dependent</strong> on the project's origin measure in 2025, while direct electricity imports also became more important between 2023 and 2025.</p>
+
+    <h3>What does this mean operationally?</h3>
+    <p>Ireland is increasingly organised around:</p>
+    <ol>
+      <li><strong>variable indigenous renewables</strong>, especially wind;</li>
+      <li><strong>gas-fired flexibility</strong>;</li>
+      <li><strong>interconnection / electricity imports</strong>;</li>
+      <li><strong>storage</strong>, which remains small in annual energy terms but can matter during specific hours.</li>
+    </ol>
+    <p>The monthly evidence does not support a simplistic one-for-one rule that low wind automatically means high gas. Imports, demand, storage, outages, prices and other generation also matter.</p>
+
+    <h3>What does this mean economically?</h3>
+    <p>There is no defensible single cost league table that makes gas, wind and solar directly equivalent.</p>
+    <p>For gas, fuel price, plant efficiency and EU ETS carbon costs all matter. For wind and solar, capital, financing, grid connection, curtailment and investment risk are central; RESS strike prices are an Irish support/revenue benchmark, not a universal LCOE.</p>
+    <p>At an illustrative 50% gas efficiency, the project's 2025 assumptions produce a direct carbon cost of roughly <strong>€29.9/MWh of electricity</strong> before the gas itself is purchased.</p>
+
+    <div class="ied-conclusion-highlight"><strong>Final interpretation:</strong> Ireland's transition has reduced coal and peat dependence and dramatically expanded renewable generation, but it has <strong>not</strong> created a self-sufficient electricity system. Ireland is moving toward a system that combines renewable resources with imported gas, interconnection and storage. The core challenge is balancing <strong>decarbonisation, flexibility, investment cost, fuel-price exposure and security of supply</strong>.</div>
+
+    <p class="muted">This conclusion provides the evidence base for Project 05 — Ireland Electricity Imports Analytics — and ultimately Project 06 — Produce vs Import Analytics.</p>
+  </article>
+</div>
+<script id="ied-conclusion-modal-script">
+(()=>{
+  const modal=document.getElementById('conclusionModal');
+  if(!modal) return;
+  const openers=document.querySelectorAll('[data-open-conclusion]');
+  const closer=modal.querySelector('[data-close-conclusion]');
+  let lastFocus=null;
+  const open=()=>{lastFocus=document.activeElement;modal.classList.add('is-open');modal.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';closer.focus();};
+  const close=()=>{modal.classList.remove('is-open');modal.setAttribute('aria-hidden','true');document.body.style.overflow='';if(lastFocus)lastFocus.focus();};
+  openers.forEach(b=>b.addEventListener('click',open));
+  closer.addEventListener('click',close);
+  modal.addEventListener('click',e=>{if(e.target===modal)close();});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&modal.classList.contains('is-open'))close();});
+})();
+</script>
 </body>
 </html>
