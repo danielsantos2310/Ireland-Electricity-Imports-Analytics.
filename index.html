@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Ireland Electricity Generation Analytics — generation mix, efficiency, fuel exposure and economics, 2010–2025.">
+<title>Ireland Electricity Generation Analytics</title>
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <div class="eyebrow">Project 04 · Ireland / Energy / Data</div>
+    <h1>How did Ireland change what powers its electricity system?</h1>
+    <p class="lead">A 2010–2025 evidence-first analysis of generation mix, operating flexibility, thermal efficiency, imported-fuel exposure and generation economics.</p>
+    <p class="hero-note">The central finding is not simply that renewables grew. Ireland moved from a system dominated mainly by gas toward one increasingly organised around <strong>wind + gas</strong>, while imports and storage became more important system resources.</p>
+    <div class="kpis" id="kpis"></div>
+  </div>
+</header>
+
+<main>
+<section>
+<div class="wrap">
+  <div class="section-head"><div class="num">01 · TRANSITION</div><h2>The scale changed modestly. The composition changed radically.</h2></div>
+  <p class="copy">Domestic generation rose only about 10% between 2010 and 2025. Over the same period, wind expanded more than fourfold, coal collapsed, solar emerged, and gas's share fell while remaining the largest single source.</p>
+  <canvas class="chart" id="transition"></canvas>
+  <div class="legend"><span><i class="dot" style="background:#7ED8A4"></i>Gas</span><span><i class="dot" style="background:#F3B45D"></i>Wind</span><span><i class="dot" style="background:#69D8E7"></i>Coal</span><span><i class="dot" style="background:#F27668"></i>Solar</span></div>
+  <div class="callout">By 2025, gas + wind supplied roughly <strong>88%</strong> of the long-run domestic-generation series.</div>
+</div>
+</section>
+
+<section>
+<div class="wrap">
+  <div class="section-head"><div class="num">02 · MIX</div><h2>From single-fuel dominance to a two-engine system.</h2></div>
+  <p class="copy">The top-two share increased, but the HHI fell because gas no longer dominated as overwhelmingly on its own. Leadership became more evenly split between gas and wind.</p>
+  <canvas class="chart" id="mixcompare"></canvas>
+  <div class="legend"><span><i class="dot" style="background:#69D8E7"></i>2010 share</span><span><i class="dot" style="background:#7ED8A4"></i>2025 share</span></div>
+</div>
+</section>
+
+<section>
+<div class="wrap">
+  <div class="section-head"><div class="num">03 · OPERATION</div><h2>Gas matters for flexibility — but the relationship is not one-for-one.</h2></div>
+  <p class="copy">Monthly gas–wind correlation changes materially by year. That is a warning against reducing Irish dispatch to “less wind = more gas”. Demand, imports, storage, outages, hydro, solar and prices all matter.</p>
+  <canvas class="chart" id="corr"></canvas>
+  <p class="muted">Pearson monthly correlation. Descriptive only; not causal evidence.</p>
+</div>
+</section>
+
+<section>
+<div class="wrap">
+  <div class="section-head"><div class="num">04 · EFFICIENCY</div><h2>The thermal fleet became smaller, somewhat more efficient — and more gas-heavy.</h2></div>
+  <div class="grid2">
+    <div><canvas class="chart" id="thermal"></canvas></div>
+    <div class="card">
+      <h3>What changed?</h3>
+      <p>Public thermal conversion efficiency improved from roughly <strong>45.5%</strong> in 2010 to <strong>49.5%</strong> in 2025.</p>
+      <p>At the same time, gas rose to roughly <strong>81%</strong> of public-thermal fuel input, while coal and peat retreated sharply.</p>
+      <p class="muted">This is an aggregate energy-balance ratio, not the engineering efficiency of every plant.</p>
+    </div>
+  </div>
+</div>
+</section>
+
+<section>
+<div class="wrap">
+  <div class="section-head"><div class="num">05 · SECURITY</div><h2>Domestic electricity does not necessarily mean indigenous energy.</h2></div>
+  <p class="copy">Ireland can generate electricity inside the country while remaining exposed to international fuel markets. Natural gas — the dominant thermal fuel — was still heavily import-dependent in 2025.</p>
+  <canvas class="chart" id="gasdep"></canvas>
+  <div class="callout">This distinction is critical: <strong>generation location</strong> and <strong>energy origin</strong> are not the same thing.</div>
+</div>
+</section>
+
+<section>
+<div class="wrap">
+  <div class="section-head"><div class="num">06 · ECONOMICS</div><h2>There is no honest single cost league table.</h2></div>
+  <p class="copy">Gas fuel + carbon cost and renewable RESS strike prices represent different economic concepts. The project therefore models gas as a sensitivity and treats RESS as an Irish investment/support benchmark.</p>
+  <div class="grid2">
+    <div class="card"><h3>Gas</h3><p>At an illustrative 50% efficiency, 2025 EU ETS carbon alone adds roughly <strong>€29.9/MWh</strong> before the gas is purchased.</p><p class="muted">Private fuel contracts, hedging, O&M, financing and capacity payments are not observed.</p></div>
+    <div class="card"><h3>Renewables</h3><p>RESS 5 weighted averages: <strong>€96.56/MWh wind</strong>, <strong>€100.60/MWh solar</strong>, <strong>€98.79/MWh all projects</strong>.</p><p class="muted">These are support/revenue auction benchmarks — not dispatch marginal costs.</p></div>
+  </div>
+  <div class="table-wrap" style="margin-top:22px">
+    <table><thead><tr><th>Auction</th><th>All projects €/MWh</th><th>Wind</th><th>Solar</th></tr></thead><tbody id="ressbody"></tbody></table>
+  </div>
+</div>
+</section>
+
+<section>
+<div class="wrap">
+  <div class="section-head"><div class="num">07 · CONCLUSION</div><h2>Decarbonisation improved. External exposure did not disappear.</h2></div>
+  <p class="copy">Ireland is moving toward a system combining indigenous variable renewables, gas flexibility, interconnection and emerging storage. The policy/economic problem is therefore not simply “which technology is cheapest?” but how to balance <strong>decarbonisation, flexibility, investment cost, fuel-price exposure and security of supply</strong>.</p>
+  <div class="table-wrap" style="margin-top:28px">
+    <table><thead><tr><th>Question</th><th>Finding</th><th>Evidence</th></tr></thead><tbody id="evidencebody"></tbody></table>
+  </div>
+</div>
+</section>
+
+<section>
+<div class="wrap">
+  <div class="section-head"><div class="num">08 · SOURCES</div><h2>Official-source evidence first.</h2></div>
+  <ul class="source-list">
+    <li>Central Statistics Office — Electricity Supply by Source.</li>
+    <li>Sustainable Energy Authority of Ireland — electricity generation, National Energy Balance, Energy by Fuel and conversion factors.</li>
+    <li>EirGrid — RESS final auction results.</li>
+    <li>European Commission — EU ETS auction reporting.</li>
+    <li>Gas Networks Ireland — imbalance prices / SAP framework.</li>
+    <li>ONS / National Gas Transmission — official System Average Price of gas dataset.</li>
+  </ul>
+  <p><a href="docs/methodology.md">Methodology</a> · <a href="docs/data_sources.md">Data sources</a> · <a href="docs/final_conclusion.md">Final conclusion</a></p>
+</div>
+</section>
+</main>
+
+<footer><div class="wrap">Ireland Electricity Generation Analytics · Project 04</div></footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

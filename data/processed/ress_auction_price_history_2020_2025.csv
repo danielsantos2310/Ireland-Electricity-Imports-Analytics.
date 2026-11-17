@@ -1,0 +1,6 @@
+auction,auction_year,all_projects_eur_mwh,wind_eur_mwh,solar_eur_mwh,note,source_url
+RESS 1,2020,74.08,,72.92,"Solar figure is the published Solar preference-category weighted average, not a general technology-wide average.",https://cms.eirgrid.ie/sites/default/files/publications/207158-EirGrid-Renewable-Energy-Scheme-LR5.pdf
+RESS 2,2022,97.87,,,Published all-project weighted average.,https://cms.eirgrid.ie/sites/default/files/publications/RESS-2-Final-Auction-Results-%28R2FAR%29.pdf
+RESS 3,2023,100.47,,,Published all-project weighted average.,https://cms.eirgrid.ie/sites/default/files/publications/RESS-3-Final-Auction-Results-%28R3FAR%29.pdf
+RESS 4,2024,96.85,90.47,104.76,"Published all-project, wind and solar weighted averages.",https://cms.eirgrid.ie/sites/default/files/publications/RESS-4-Final-Auction-Results-R4FAR.pdf
+RESS 5,2025,98.79,96.56,100.6,"Published all-project, wind and solar weighted averages.",https://cms.eirgrid.ie/sites/default/files/publications/RESS-5-Final-Auction-Results-R5FAR.pdf

@@ -1,0 +1,2986 @@
+{
+  "meta": {
+    "project": "Ireland Electricity Generation Analytics",
+    "period": "2010\u20132025",
+    "research_question": "How did Ireland transform its electricity-generation system, and what does that mean for efficiency, imported-fuel exposure and generation economics?"
+  },
+  "kpis": {
+    "generation_2010_twh": 26.63,
+    "generation_2025_twh": 29.31,
+    "wind_share_2010": 10.5,
+    "wind_share_2025": 40.1,
+    "gas_share_2010": 64.4,
+    "gas_share_2025": 47.5,
+    "gas_wind_share_2025": 87.6,
+    "thermal_efficiency_2010": 45.5,
+    "thermal_efficiency_2025": 49.5,
+    "gas_import_dependency_2025": 82.3
+  },
+  "annual_summary": [
+    {
+      "year": 2010,
+      "total_generation_gwh": 26633.381,
+      "gas_gwh": 17158.707,
+      "gas_share_pct": 64.4256,
+      "wind_gwh": 2807.145,
+      "wind_share_pct": 10.5399,
+      "gas_plus_wind_share_pct": 74.9655,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 3471.311,
+      "coal_share_pct": 13.0337,
+      "hydro_gwh": 551.416,
+      "oil_gwh": 306.267,
+      "peat_biomass_gwh": 2087.526,
+      "waste_gwh": 0.0,
+      "combustible_renewables_gwh": 0.0,
+      "other_gwh": 251.009,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2011,
+      "total_generation_gwh": 25639.373,
+      "gas_gwh": 14434.736,
+      "gas_share_pct": 56.2991,
+      "wind_gwh": 4370.349,
+      "wind_share_pct": 17.0455,
+      "gas_plus_wind_share_pct": 73.3446,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 3836.392,
+      "coal_share_pct": 14.9629,
+      "hydro_gwh": 679.869,
+      "oil_gwh": 74.159,
+      "peat_biomass_gwh": 2075.013,
+      "waste_gwh": 0.0,
+      "combustible_renewables_gwh": 0.0,
+      "other_gwh": 168.855,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2012,
+      "total_generation_gwh": 25441.941,
+      "gas_gwh": 13075.416,
+      "gas_share_pct": 51.3932,
+      "wind_gwh": 3999.419,
+      "wind_share_pct": 15.7198,
+      "gas_plus_wind_share_pct": 67.1129,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 4892.505,
+      "coal_share_pct": 19.2301,
+      "hydro_gwh": 760.587,
+      "oil_gwh": 37.661,
+      "peat_biomass_gwh": 2414.352,
+      "waste_gwh": 101.597,
+      "combustible_renewables_gwh": 0.0,
+      "other_gwh": 160.404,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2013,
+      "total_generation_gwh": 24073.034,
+      "gas_gwh": 12097.543,
+      "gas_share_pct": 50.2535,
+      "wind_gwh": 4529.678,
+      "wind_share_pct": 18.8164,
+      "gas_plus_wind_share_pct": 69.0699,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 4176.009,
+      "coal_share_pct": 17.3472,
+      "hydro_gwh": 572.715,
+      "oil_gwh": 30.277,
+      "peat_biomass_gwh": 2316.822,
+      "waste_gwh": 123.112,
+      "combustible_renewables_gwh": 0.0,
+      "other_gwh": 226.878,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2014,
+      "total_generation_gwh": 24270.692,
+      "gas_gwh": 11635.577,
+      "gas_share_pct": 47.9409,
+      "wind_gwh": 5115.717,
+      "wind_share_pct": 21.0778,
+      "gas_plus_wind_share_pct": 69.0186,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 3933.536,
+      "coal_share_pct": 16.2069,
+      "hydro_gwh": 701.48,
+      "oil_gwh": 18.888,
+      "peat_biomass_gwh": 2559.953,
+      "waste_gwh": 126.722,
+      "combustible_renewables_gwh": 0.0,
+      "other_gwh": 178.819,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2015,
+      "total_generation_gwh": 26531.106,
+      "gas_gwh": 11484.684,
+      "gas_share_pct": 43.2876,
+      "wind_gwh": 6536.655,
+      "wind_share_pct": 24.6377,
+      "gas_plus_wind_share_pct": 67.9253,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 4842.788,
+      "coal_share_pct": 18.2532,
+      "hydro_gwh": 798.307,
+      "oil_gwh": 33.521,
+      "peat_biomass_gwh": 2522.678,
+      "waste_gwh": 135.005,
+      "combustible_renewables_gwh": 177.432,
+      "other_gwh": 0.036,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2016,
+      "total_generation_gwh": 28540.353,
+      "gas_gwh": 14232.623,
+      "gas_share_pct": 49.8684,
+      "wind_gwh": 6114.939,
+      "wind_share_pct": 21.4256,
+      "gas_plus_wind_share_pct": 71.294,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 4624.627,
+      "coal_share_pct": 16.2038,
+      "hydro_gwh": 674.15,
+      "oil_gwh": 66.417,
+      "peat_biomass_gwh": 2516.074,
+      "waste_gwh": 130.29,
+      "combustible_renewables_gwh": 181.209,
+      "other_gwh": 0.024,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2017,
+      "total_generation_gwh": 29032.922,
+      "gas_gwh": 14558.834,
+      "gas_share_pct": 50.1459,
+      "wind_gwh": 7407.64,
+      "wind_share_pct": 25.5146,
+      "gas_plus_wind_share_pct": 75.6606,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 3552.868,
+      "coal_share_pct": 12.2374,
+      "hydro_gwh": 684.555,
+      "oil_gwh": 22.207,
+      "peat_biomass_gwh": 2356.374,
+      "waste_gwh": 275.109,
+      "combustible_renewables_gwh": 175.311,
+      "other_gwh": 0.024,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2018,
+      "total_generation_gwh": 29311.677,
+      "gas_gwh": 14869.313,
+      "gas_share_pct": 50.7283,
+      "wind_gwh": 8600.001,
+      "wind_share_pct": 29.3398,
+      "gas_plus_wind_share_pct": 80.0681,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 2108.104,
+      "coal_share_pct": 7.192,
+      "hydro_gwh": 687.043,
+      "oil_gwh": 53.817,
+      "peat_biomass_gwh": 2247.671,
+      "waste_gwh": 564.176,
+      "combustible_renewables_gwh": 181.537,
+      "other_gwh": 0.015,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2019,
+      "total_generation_gwh": 29239.189,
+      "gas_gwh": 14815.664,
+      "gas_share_pct": 50.6706,
+      "wind_gwh": 9967.473,
+      "wind_share_pct": 34.0894,
+      "gas_plus_wind_share_pct": 84.76,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 577.628,
+      "coal_share_pct": 1.9755,
+      "hydro_gwh": 877.541,
+      "oil_gwh": 131.403,
+      "peat_biomass_gwh": 2105.878,
+      "waste_gwh": 546.916,
+      "combustible_renewables_gwh": 211.641,
+      "other_gwh": 5.045,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2020,
+      "total_generation_gwh": 30450.003,
+      "gas_gwh": 15061.112,
+      "gas_share_pct": 49.4618,
+      "wind_gwh": 11495.982,
+      "wind_share_pct": 37.7536,
+      "gas_plus_wind_share_pct": 87.2154,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 764.682,
+      "coal_share_pct": 2.5113,
+      "hydro_gwh": 923.164,
+      "oil_gwh": 224.259,
+      "peat_biomass_gwh": 1221.814,
+      "waste_gwh": 554.85,
+      "combustible_renewables_gwh": 184.648,
+      "other_gwh": 19.492,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2021,
+      "total_generation_gwh": 29840.247,
+      "gas_gwh": 13993.189,
+      "gas_share_pct": 46.8937,
+      "wind_gwh": 9718.352,
+      "wind_share_pct": 32.5679,
+      "gas_plus_wind_share_pct": 79.4616,
+      "solar_gwh": 0.0,
+      "solar_share_pct": 0.0,
+      "coal_gwh": 2780.314,
+      "coal_share_pct": 9.3173,
+      "hydro_gwh": 741.752,
+      "oil_gwh": 1159.376,
+      "peat_biomass_gwh": 682.205,
+      "waste_gwh": 604.17,
+      "combustible_renewables_gwh": 143.087,
+      "other_gwh": 17.802,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2022,
+      "total_generation_gwh": 31876.038,
+      "gas_gwh": 15361.811,
+      "gas_share_pct": 48.1923,
+      "wind_gwh": 11148.149,
+      "wind_share_pct": 34.9734,
+      "gas_plus_wind_share_pct": 83.1658,
+      "solar_gwh": 13.136,
+      "solar_share_pct": 0.0412,
+      "coal_gwh": 2520.08,
+      "coal_share_pct": 7.9059,
+      "hydro_gwh": 694.012,
+      "oil_gwh": 720.091,
+      "peat_biomass_gwh": 650.208,
+      "waste_gwh": 590.631,
+      "combustible_renewables_gwh": 162.339,
+      "other_gwh": 15.581,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2023,
+      "total_generation_gwh": 29727.138,
+      "gas_gwh": 14247.034,
+      "gas_share_pct": 47.926,
+      "wind_gwh": 11609.813,
+      "wind_share_pct": 39.0546,
+      "gas_plus_wind_share_pct": 86.9806,
+      "solar_gwh": 413.768,
+      "solar_share_pct": 1.3919,
+      "coal_gwh": 1216.49,
+      "coal_share_pct": 4.0922,
+      "hydro_gwh": 933.059,
+      "oil_gwh": 117.752,
+      "peat_biomass_gwh": 417.507,
+      "waste_gwh": 593.587,
+      "combustible_renewables_gwh": 163.746,
+      "other_gwh": 14.382,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2024,
+      "total_generation_gwh": 29267.409,
+      "gas_gwh": 14035.753,
+      "gas_share_pct": 47.9569,
+      "wind_gwh": 11398.96,
+      "wind_share_pct": 38.9476,
+      "gas_plus_wind_share_pct": 86.9046,
+      "solar_gwh": 730.566,
+      "solar_share_pct": 2.4962,
+      "coal_gwh": 946.218,
+      "coal_share_pct": 3.233,
+      "hydro_gwh": 758.301,
+      "oil_gwh": 200.921,
+      "peat_biomass_gwh": 456.59,
+      "waste_gwh": 578.973,
+      "combustible_renewables_gwh": 148.976,
+      "other_gwh": 12.151,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    },
+    {
+      "year": 2025,
+      "total_generation_gwh": 29306.061,
+      "gas_gwh": 13918.382,
+      "gas_share_pct": 47.4932,
+      "wind_gwh": 11765.571,
+      "wind_share_pct": 40.1472,
+      "gas_plus_wind_share_pct": 87.6404,
+      "solar_gwh": 1093.229,
+      "solar_share_pct": 3.7304,
+      "coal_gwh": 452.565,
+      "coal_share_pct": 1.5443,
+      "hydro_gwh": 640.607,
+      "oil_gwh": 202.288,
+      "peat_biomass_gwh": 488.071,
+      "waste_gwh": 584.189,
+      "combustible_renewables_gwh": 150.253,
+      "other_gwh": 10.906,
+      "note": "Renewable/fossil total shares are not calculated because Peat & Biomass and Waste are mixed categories in the source export."
+    }
+  ],
+  "annual_long": [
+    {
+      "year": 2010,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 3471.311,
+      "share_pct": 13.0337
+    },
+    {
+      "year": 2010,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 17158.707,
+      "share_pct": 64.4256
+    },
+    {
+      "year": 2010,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 306.267,
+      "share_pct": 1.1499
+    },
+    {
+      "year": 2010,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 2087.526,
+      "share_pct": 7.838
+    },
+    {
+      "year": 2010,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2010,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2010,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 551.416,
+      "share_pct": 2.0704
+    },
+    {
+      "year": 2010,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2010,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 2807.145,
+      "share_pct": 10.5399
+    },
+    {
+      "year": 2010,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 251.009,
+      "share_pct": 0.9425
+    },
+    {
+      "year": 2011,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 3836.392,
+      "share_pct": 14.9629
+    },
+    {
+      "year": 2011,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 14434.736,
+      "share_pct": 56.2991
+    },
+    {
+      "year": 2011,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 74.159,
+      "share_pct": 0.2892
+    },
+    {
+      "year": 2011,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 2075.013,
+      "share_pct": 8.0931
+    },
+    {
+      "year": 2011,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2011,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2011,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 679.869,
+      "share_pct": 2.6517
+    },
+    {
+      "year": 2011,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2011,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 4370.349,
+      "share_pct": 17.0455
+    },
+    {
+      "year": 2011,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 168.855,
+      "share_pct": 0.6586
+    },
+    {
+      "year": 2012,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 4892.505,
+      "share_pct": 19.2301
+    },
+    {
+      "year": 2012,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 13075.416,
+      "share_pct": 51.3932
+    },
+    {
+      "year": 2012,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 37.661,
+      "share_pct": 0.148
+    },
+    {
+      "year": 2012,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 2414.352,
+      "share_pct": 9.4897
+    },
+    {
+      "year": 2012,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 101.597,
+      "share_pct": 0.3993
+    },
+    {
+      "year": 2012,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2012,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 760.587,
+      "share_pct": 2.9895
+    },
+    {
+      "year": 2012,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2012,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 3999.419,
+      "share_pct": 15.7198
+    },
+    {
+      "year": 2012,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 160.404,
+      "share_pct": 0.6305
+    },
+    {
+      "year": 2013,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 4176.009,
+      "share_pct": 17.3472
+    },
+    {
+      "year": 2013,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 12097.543,
+      "share_pct": 50.2535
+    },
+    {
+      "year": 2013,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 30.277,
+      "share_pct": 0.1258
+    },
+    {
+      "year": 2013,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 2316.822,
+      "share_pct": 9.6241
+    },
+    {
+      "year": 2013,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 123.112,
+      "share_pct": 0.5114
+    },
+    {
+      "year": 2013,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2013,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 572.715,
+      "share_pct": 2.3791
+    },
+    {
+      "year": 2013,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2013,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 4529.678,
+      "share_pct": 18.8164
+    },
+    {
+      "year": 2013,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 226.878,
+      "share_pct": 0.9425
+    },
+    {
+      "year": 2014,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 3933.536,
+      "share_pct": 16.2069
+    },
+    {
+      "year": 2014,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 11635.577,
+      "share_pct": 47.9409
+    },
+    {
+      "year": 2014,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 18.888,
+      "share_pct": 0.0778
+    },
+    {
+      "year": 2014,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 2559.953,
+      "share_pct": 10.5475
+    },
+    {
+      "year": 2014,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 126.722,
+      "share_pct": 0.5221
+    },
+    {
+      "year": 2014,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2014,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 701.48,
+      "share_pct": 2.8902
+    },
+    {
+      "year": 2014,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2014,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 5115.717,
+      "share_pct": 21.0778
+    },
+    {
+      "year": 2014,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 178.819,
+      "share_pct": 0.7368
+    },
+    {
+      "year": 2015,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 4842.788,
+      "share_pct": 18.2532
+    },
+    {
+      "year": 2015,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 11484.684,
+      "share_pct": 43.2876
+    },
+    {
+      "year": 2015,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 33.521,
+      "share_pct": 0.1263
+    },
+    {
+      "year": 2015,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 2522.678,
+      "share_pct": 9.5084
+    },
+    {
+      "year": 2015,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 135.005,
+      "share_pct": 0.5089
+    },
+    {
+      "year": 2015,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 177.432,
+      "share_pct": 0.6688
+    },
+    {
+      "year": 2015,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 798.307,
+      "share_pct": 3.0089
+    },
+    {
+      "year": 2015,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2015,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 6536.655,
+      "share_pct": 24.6377
+    },
+    {
+      "year": 2015,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 0.036,
+      "share_pct": 0.0001
+    },
+    {
+      "year": 2016,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 4624.627,
+      "share_pct": 16.2038
+    },
+    {
+      "year": 2016,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 14232.623,
+      "share_pct": 49.8684
+    },
+    {
+      "year": 2016,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 66.417,
+      "share_pct": 0.2327
+    },
+    {
+      "year": 2016,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 2516.074,
+      "share_pct": 8.8158
+    },
+    {
+      "year": 2016,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 130.29,
+      "share_pct": 0.4565
+    },
+    {
+      "year": 2016,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 181.209,
+      "share_pct": 0.6349
+    },
+    {
+      "year": 2016,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 674.15,
+      "share_pct": 2.3621
+    },
+    {
+      "year": 2016,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2016,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 6114.939,
+      "share_pct": 21.4256
+    },
+    {
+      "year": 2016,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 0.024,
+      "share_pct": 0.0001
+    },
+    {
+      "year": 2017,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 3552.868,
+      "share_pct": 12.2374
+    },
+    {
+      "year": 2017,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 14558.834,
+      "share_pct": 50.1459
+    },
+    {
+      "year": 2017,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 22.207,
+      "share_pct": 0.0765
+    },
+    {
+      "year": 2017,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 2356.374,
+      "share_pct": 8.1162
+    },
+    {
+      "year": 2017,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 275.109,
+      "share_pct": 0.9476
+    },
+    {
+      "year": 2017,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 175.311,
+      "share_pct": 0.6038
+    },
+    {
+      "year": 2017,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 684.555,
+      "share_pct": 2.3579
+    },
+    {
+      "year": 2017,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2017,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 7407.64,
+      "share_pct": 25.5146
+    },
+    {
+      "year": 2017,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 0.024,
+      "share_pct": 0.0001
+    },
+    {
+      "year": 2018,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 2108.104,
+      "share_pct": 7.192
+    },
+    {
+      "year": 2018,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 14869.313,
+      "share_pct": 50.7283
+    },
+    {
+      "year": 2018,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 53.817,
+      "share_pct": 0.1836
+    },
+    {
+      "year": 2018,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 2247.671,
+      "share_pct": 7.6682
+    },
+    {
+      "year": 2018,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 564.176,
+      "share_pct": 1.9247
+    },
+    {
+      "year": 2018,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 181.537,
+      "share_pct": 0.6193
+    },
+    {
+      "year": 2018,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 687.043,
+      "share_pct": 2.3439
+    },
+    {
+      "year": 2018,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2018,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 8600.001,
+      "share_pct": 29.3398
+    },
+    {
+      "year": 2018,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 0.015,
+      "share_pct": 0.0001
+    },
+    {
+      "year": 2019,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 577.628,
+      "share_pct": 1.9755
+    },
+    {
+      "year": 2019,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 14815.664,
+      "share_pct": 50.6706
+    },
+    {
+      "year": 2019,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 131.403,
+      "share_pct": 0.4494
+    },
+    {
+      "year": 2019,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 2105.878,
+      "share_pct": 7.2022
+    },
+    {
+      "year": 2019,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 546.916,
+      "share_pct": 1.8705
+    },
+    {
+      "year": 2019,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 211.641,
+      "share_pct": 0.7238
+    },
+    {
+      "year": 2019,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 877.541,
+      "share_pct": 3.0012
+    },
+    {
+      "year": 2019,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2019,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 9967.473,
+      "share_pct": 34.0894
+    },
+    {
+      "year": 2019,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 5.045,
+      "share_pct": 0.0173
+    },
+    {
+      "year": 2020,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 764.682,
+      "share_pct": 2.5113
+    },
+    {
+      "year": 2020,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 15061.112,
+      "share_pct": 49.4618
+    },
+    {
+      "year": 2020,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 224.259,
+      "share_pct": 0.7365
+    },
+    {
+      "year": 2020,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 1221.814,
+      "share_pct": 4.0125
+    },
+    {
+      "year": 2020,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 554.85,
+      "share_pct": 1.8222
+    },
+    {
+      "year": 2020,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 184.648,
+      "share_pct": 0.6064
+    },
+    {
+      "year": 2020,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 923.164,
+      "share_pct": 3.0317
+    },
+    {
+      "year": 2020,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2020,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 11495.982,
+      "share_pct": 37.7536
+    },
+    {
+      "year": 2020,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 19.492,
+      "share_pct": 0.064
+    },
+    {
+      "year": 2021,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 2780.314,
+      "share_pct": 9.3173
+    },
+    {
+      "year": 2021,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 13993.189,
+      "share_pct": 46.8937
+    },
+    {
+      "year": 2021,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 1159.376,
+      "share_pct": 3.8853
+    },
+    {
+      "year": 2021,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 682.205,
+      "share_pct": 2.2862
+    },
+    {
+      "year": 2021,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 604.17,
+      "share_pct": 2.0247
+    },
+    {
+      "year": 2021,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 143.087,
+      "share_pct": 0.4795
+    },
+    {
+      "year": 2021,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 741.752,
+      "share_pct": 2.4857
+    },
+    {
+      "year": 2021,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 0.0,
+      "share_pct": 0.0
+    },
+    {
+      "year": 2021,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 9718.352,
+      "share_pct": 32.5679
+    },
+    {
+      "year": 2021,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 17.802,
+      "share_pct": 0.0597
+    },
+    {
+      "year": 2022,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 2520.08,
+      "share_pct": 7.9059
+    },
+    {
+      "year": 2022,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 15361.811,
+      "share_pct": 48.1923
+    },
+    {
+      "year": 2022,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 720.091,
+      "share_pct": 2.259
+    },
+    {
+      "year": 2022,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 650.208,
+      "share_pct": 2.0398
+    },
+    {
+      "year": 2022,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 590.631,
+      "share_pct": 1.8529
+    },
+    {
+      "year": 2022,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 162.339,
+      "share_pct": 0.5093
+    },
+    {
+      "year": 2022,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 694.012,
+      "share_pct": 2.1772
+    },
+    {
+      "year": 2022,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 13.136,
+      "share_pct": 0.0412
+    },
+    {
+      "year": 2022,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 11148.149,
+      "share_pct": 34.9734
+    },
+    {
+      "year": 2022,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 15.581,
+      "share_pct": 0.0489
+    },
+    {
+      "year": 2023,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 1216.49,
+      "share_pct": 4.0922
+    },
+    {
+      "year": 2023,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 14247.034,
+      "share_pct": 47.926
+    },
+    {
+      "year": 2023,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 117.752,
+      "share_pct": 0.3961
+    },
+    {
+      "year": 2023,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 417.507,
+      "share_pct": 1.4045
+    },
+    {
+      "year": 2023,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 593.587,
+      "share_pct": 1.9968
+    },
+    {
+      "year": 2023,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 163.746,
+      "share_pct": 0.5508
+    },
+    {
+      "year": 2023,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 933.059,
+      "share_pct": 3.1387
+    },
+    {
+      "year": 2023,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 413.768,
+      "share_pct": 1.3919
+    },
+    {
+      "year": 2023,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 11609.813,
+      "share_pct": 39.0546
+    },
+    {
+      "year": 2023,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 14.382,
+      "share_pct": 0.0484
+    },
+    {
+      "year": 2024,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 946.218,
+      "share_pct": 3.233
+    },
+    {
+      "year": 2024,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 14035.753,
+      "share_pct": 47.9569
+    },
+    {
+      "year": 2024,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 200.921,
+      "share_pct": 0.6865
+    },
+    {
+      "year": 2024,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 456.59,
+      "share_pct": 1.5601
+    },
+    {
+      "year": 2024,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 578.973,
+      "share_pct": 1.9782
+    },
+    {
+      "year": 2024,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 148.976,
+      "share_pct": 0.509
+    },
+    {
+      "year": 2024,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 758.301,
+      "share_pct": 2.5909
+    },
+    {
+      "year": 2024,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 730.566,
+      "share_pct": 2.4962
+    },
+    {
+      "year": 2024,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 11398.96,
+      "share_pct": 38.9476
+    },
+    {
+      "year": 2024,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 12.151,
+      "share_pct": 0.0415
+    },
+    {
+      "year": 2025,
+      "source": "Coal",
+      "source_group": "Fossil",
+      "generation_gwh": 452.565,
+      "share_pct": 1.5443
+    },
+    {
+      "year": 2025,
+      "source": "Gas",
+      "source_group": "Fossil",
+      "generation_gwh": 13918.382,
+      "share_pct": 47.4932
+    },
+    {
+      "year": 2025,
+      "source": "Oil",
+      "source_group": "Fossil",
+      "generation_gwh": 202.288,
+      "share_pct": 0.6903
+    },
+    {
+      "year": 2025,
+      "source": "Peat & Biomass",
+      "source_group": "Mixed",
+      "generation_gwh": 488.071,
+      "share_pct": 1.6654
+    },
+    {
+      "year": 2025,
+      "source": "Waste",
+      "source_group": "Mixed",
+      "generation_gwh": 584.189,
+      "share_pct": 1.9934
+    },
+    {
+      "year": 2025,
+      "source": "Combustible Renewables",
+      "source_group": "Renewable",
+      "generation_gwh": 150.253,
+      "share_pct": 0.5127
+    },
+    {
+      "year": 2025,
+      "source": "Hydro",
+      "source_group": "Renewable",
+      "generation_gwh": 640.607,
+      "share_pct": 2.1859
+    },
+    {
+      "year": 2025,
+      "source": "Solar",
+      "source_group": "Renewable",
+      "generation_gwh": 1093.229,
+      "share_pct": 3.7304
+    },
+    {
+      "year": 2025,
+      "source": "Wind",
+      "source_group": "Renewable",
+      "generation_gwh": 11765.571,
+      "share_pct": 40.1472
+    },
+    {
+      "year": 2025,
+      "source": "Other",
+      "source_group": "Other",
+      "generation_gwh": 10.906,
+      "share_pct": 0.0372
+    }
+  ],
+  "thermal": [
+    {
+      "year": 2010,
+      "public_thermal_input_ktoe": 4311.62187,
+      "public_thermal_electricity_output_ktoe": 1961.794206,
+      "public_thermal_efficiency_pct": 45.5001,
+      "gas_input_ktoe": 2768.724655,
+      "gas_input_share_pct": 64.2154,
+      "coal_input_ktoe": 867.501689,
+      "coal_input_share_pct": 20.1201,
+      "peat_input_ktoe": 481.134916,
+      "peat_input_share_pct": 11.159,
+      "oil_input_ktoe": 129.717446,
+      "oil_input_share_pct": 3.0086,
+      "renewables_input_ktoe": 64.543164,
+      "nonrenewable_waste_input_ktoe": 0.0,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2011,
+      "public_thermal_input_ktoe": 3759.160308,
+      "public_thermal_electricity_output_ktoe": 1729.436749,
+      "public_thermal_efficiency_pct": 46.0059,
+      "gas_input_ktoe": 2254.168653,
+      "gas_input_share_pct": 59.9647,
+      "coal_input_ktoe": 913.070987,
+      "coal_input_share_pct": 24.2892,
+      "peat_input_ktoe": 472.910851,
+      "peat_input_share_pct": 12.5802,
+      "oil_input_ktoe": 48.264113,
+      "oil_input_share_pct": 1.2839,
+      "renewables_input_ktoe": 70.745704,
+      "nonrenewable_waste_input_ktoe": 0.0,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2012,
+      "public_thermal_input_ktoe": 3873.865855,
+      "public_thermal_electricity_output_ktoe": 1737.183206,
+      "public_thermal_efficiency_pct": 44.8437,
+      "gas_input_ktoe": 1994.879608,
+      "gas_input_share_pct": 51.4958,
+      "coal_input_ktoe": 1160.110473,
+      "coal_input_share_pct": 29.9471,
+      "peat_input_ktoe": 549.999183,
+      "peat_input_share_pct": 14.1977,
+      "oil_input_ktoe": 46.652585,
+      "oil_input_share_pct": 1.2043,
+      "renewables_input_ktoe": 103.864846,
+      "nonrenewable_waste_input_ktoe": 18.35916,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2013,
+      "public_thermal_input_ktoe": 3469.640716,
+      "public_thermal_electricity_output_ktoe": 1580.164479,
+      "public_thermal_efficiency_pct": 45.5426,
+      "gas_input_ktoe": 1830.297424,
+      "gas_input_share_pct": 52.7518,
+      "coal_input_ktoe": 970.369293,
+      "coal_input_share_pct": 27.9674,
+      "peat_input_ktoe": 497.525527,
+      "peat_input_share_pct": 14.3394,
+      "oil_input_ktoe": 37.784884,
+      "oil_input_share_pct": 1.089,
+      "renewables_input_ktoe": 110.802066,
+      "nonrenewable_waste_input_ktoe": 22.861522,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2014,
+      "public_thermal_input_ktoe": 3396.085127,
+      "public_thermal_electricity_output_ktoe": 1537.845689,
+      "public_thermal_efficiency_pct": 45.2829,
+      "gas_input_ktoe": 1714.783523,
+      "gas_input_share_pct": 50.4929,
+      "coal_input_ktoe": 940.378399,
+      "coal_input_share_pct": 27.6901,
+      "peat_input_ktoe": 541.839075,
+      "peat_input_share_pct": 15.9548,
+      "oil_input_ktoe": 54.9291,
+      "oil_input_share_pct": 1.6174,
+      "renewables_input_ktoe": 119.632221,
+      "nonrenewable_waste_input_ktoe": 24.522809,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2015,
+      "public_thermal_input_ktoe": 3502.837916,
+      "public_thermal_electricity_output_ktoe": 1596.056107,
+      "public_thermal_efficiency_pct": 45.5647,
+      "gas_input_ktoe": 1620.290303,
+      "gas_input_share_pct": 46.2565,
+      "coal_input_ktoe": 1125.572786,
+      "coal_input_share_pct": 32.1332,
+      "peat_input_ktoe": 547.20074,
+      "peat_input_share_pct": 15.6216,
+      "oil_input_ktoe": 77.04826,
+      "oil_input_share_pct": 2.1996,
+      "renewables_input_ktoe": 107.910696,
+      "nonrenewable_waste_input_ktoe": 24.815132,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2016,
+      "public_thermal_input_ktoe": 3922.887735,
+      "public_thermal_electricity_output_ktoe": 1821.842787,
+      "public_thermal_efficiency_pct": 46.4414,
+      "gas_input_ktoe": 2068.723294,
+      "gas_input_share_pct": 52.7347,
+      "coal_input_ktoe": 1102.585823,
+      "coal_input_share_pct": 28.1065,
+      "peat_input_ktoe": 512.940061,
+      "peat_input_share_pct": 13.0756,
+      "oil_input_ktoe": 63.186169,
+      "oil_input_share_pct": 1.6107,
+      "renewables_input_ktoe": 150.503979,
+      "nonrenewable_waste_input_ktoe": 24.948409,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2017,
+      "public_thermal_input_ktoe": 3754.897074,
+      "public_thermal_electricity_output_ktoe": 1748.395524,
+      "public_thermal_efficiency_pct": 46.5631,
+      "gas_input_ktoe": 2142.519576,
+      "gas_input_share_pct": 57.0593,
+      "coal_input_ktoe": 867.413212,
+      "coal_input_share_pct": 23.1009,
+      "peat_input_ktoe": 481.081658,
+      "peat_input_share_pct": 12.8121,
+      "oil_input_ktoe": 32.961949,
+      "oil_input_share_pct": 0.8778,
+      "renewables_input_ktoe": 174.51891,
+      "nonrenewable_waste_input_ktoe": 56.40177,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2018,
+      "public_thermal_input_ktoe": 3474.438243,
+      "public_thermal_electricity_output_ktoe": 1667.486445,
+      "public_thermal_efficiency_pct": 47.993,
+      "gas_input_ktoe": 2188.023839,
+      "gas_input_share_pct": 62.9749,
+      "coal_input_ktoe": 489.134195,
+      "coal_input_share_pct": 14.0781,
+      "peat_input_ktoe": 467.10846,
+      "peat_input_share_pct": 13.4441,
+      "oil_input_ktoe": 34.094789,
+      "oil_input_share_pct": 0.9813,
+      "renewables_input_ktoe": 205.345361,
+      "nonrenewable_waste_input_ktoe": 90.731598,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2019,
+      "public_thermal_input_ktoe": 3208.965226,
+      "public_thermal_electricity_output_ktoe": 1520.780337,
+      "public_thermal_efficiency_pct": 47.3916,
+      "gas_input_ktoe": 2262.9232,
+      "gas_input_share_pct": 70.5188,
+      "coal_input_ktoe": 147.866362,
+      "coal_input_share_pct": 4.6079,
+      "peat_input_ktoe": 429.596464,
+      "peat_input_share_pct": 13.3874,
+      "oil_input_ktoe": 77.823018,
+      "oil_input_share_pct": 2.4252,
+      "renewables_input_ktoe": 202.109703,
+      "nonrenewable_waste_input_ktoe": 88.646478,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2020,
+      "public_thermal_input_ktoe": 3119.692893,
+      "public_thermal_electricity_output_ktoe": 1492.031847,
+      "public_thermal_efficiency_pct": 47.8262,
+      "gas_input_ktoe": 2291.108687,
+      "gas_input_share_pct": 73.4402,
+      "coal_input_ktoe": 194.69705,
+      "coal_input_share_pct": 6.2409,
+      "peat_input_ktoe": 208.621914,
+      "peat_input_share_pct": 6.6873,
+      "oil_input_ktoe": 106.721615,
+      "oil_input_share_pct": 3.4209,
+      "renewables_input_ktoe": 225.396818,
+      "nonrenewable_waste_input_ktoe": 93.14681,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2021,
+      "public_thermal_input_ktoe": 3499.125865,
+      "public_thermal_electricity_output_ktoe": 1625.449993,
+      "public_thermal_efficiency_pct": 46.453,
+      "gas_input_ktoe": 2088.088039,
+      "gas_input_share_pct": 59.6746,
+      "coal_input_ktoe": 672.761818,
+      "coal_input_share_pct": 19.2266,
+      "peat_input_ktoe": 66.477587,
+      "peat_input_share_pct": 1.8998,
+      "oil_input_ktoe": 359.453458,
+      "oil_input_share_pct": 10.2727,
+      "renewables_input_ktoe": 223.304741,
+      "nonrenewable_waste_input_ktoe": 89.040222,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2022,
+      "public_thermal_input_ktoe": 3537.399936,
+      "public_thermal_electricity_output_ktoe": 1674.881456,
+      "public_thermal_efficiency_pct": 47.3478,
+      "gas_input_ktoe": 2351.20538,
+      "gas_input_share_pct": 66.467,
+      "coal_input_ktoe": 564.164469,
+      "coal_input_share_pct": 15.9486,
+      "peat_input_ktoe": 50.017786,
+      "peat_input_share_pct": 1.414,
+      "oil_input_ktoe": 254.86824,
+      "oil_input_share_pct": 7.205,
+      "renewables_input_ktoe": 227.126184,
+      "nonrenewable_waste_input_ktoe": 90.017877,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2023,
+      "public_thermal_input_ktoe": 2873.269039,
+      "public_thermal_electricity_output_ktoe": 1391.836632,
+      "public_thermal_efficiency_pct": 48.4409,
+      "gas_input_ktoe": 2182.540616,
+      "gas_input_share_pct": 75.9602,
+      "coal_input_ktoe": 314.626049,
+      "coal_input_share_pct": 10.9501,
+      "peat_input_ktoe": 33.712389,
+      "peat_input_share_pct": 1.1733,
+      "oil_input_ktoe": 55.481525,
+      "oil_input_share_pct": 1.931,
+      "renewables_input_ktoe": 194.233044,
+      "nonrenewable_waste_input_ktoe": 92.675416,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2024,
+      "public_thermal_input_ktoe": 2808.712026,
+      "public_thermal_electricity_output_ktoe": 1352.90626,
+      "public_thermal_efficiency_pct": 48.1682,
+      "gas_input_ktoe": 2183.747965,
+      "gas_input_share_pct": 77.7491,
+      "coal_input_ktoe": 160.554974,
+      "coal_input_share_pct": 5.7163,
+      "peat_input_ktoe": 0.0,
+      "peat_input_share_pct": 0.0,
+      "oil_input_ktoe": 148.545245,
+      "oil_input_share_pct": 5.2887,
+      "renewables_input_ktoe": 232.931874,
+      "nonrenewable_waste_input_ktoe": 82.931968,
+      "source_dataset": "SEAI National Energy Balance"
+    },
+    {
+      "year": 2025,
+      "public_thermal_input_ktoe": 2657.907747,
+      "public_thermal_electricity_output_ktoe": 1314.422004,
+      "public_thermal_efficiency_pct": 49.4533,
+      "gas_input_ktoe": 2162.850171,
+      "gas_input_share_pct": 81.3742,
+      "coal_input_ktoe": 59.269703,
+      "coal_input_share_pct": 2.2299,
+      "peat_input_ktoe": 0.0,
+      "peat_input_share_pct": 0.0,
+      "oil_input_ktoe": 111.866264,
+      "oil_input_share_pct": 4.2088,
+      "renewables_input_ktoe": 243.825355,
+      "nonrenewable_waste_input_ktoe": 80.096255,
+      "source_dataset": "SEAI National Energy Balance"
+    }
+  ],
+  "gas_dependency": [
+    {
+      "year": 2010,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 237.246877,
+      "imports_ktoe": 4487.033384,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4711.912823,
+      "import_share_of_indigenous_plus_imports_pct": 94.9781,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2011,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 197.393189,
+      "imports_ktoe": 3962.502878,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4146.983482,
+      "import_share_of_indigenous_plus_imports_pct": 95.2549,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2012,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 180.711769,
+      "imports_ktoe": 3846.450677,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4040.939297,
+      "import_share_of_indigenous_plus_imports_pct": 95.5127,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2013,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 163.543243,
+      "imports_ktoe": 3717.368322,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 3862.560044,
+      "import_share_of_indigenous_plus_imports_pct": 95.786,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2014,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 131.59763,
+      "imports_ktoe": 3590.214279,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 3731.303209,
+      "import_share_of_indigenous_plus_imports_pct": 96.4642,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2015,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 112.543554,
+      "imports_ktoe": 3628.752037,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 3769.077168,
+      "import_share_of_indigenous_plus_imports_pct": 96.9919,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2016,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 2492.637097,
+      "imports_ktoe": 1704.389209,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4250.876609,
+      "import_share_of_indigenous_plus_imports_pct": 40.6094,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2017,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 2853.989389,
+      "imports_ktoe": 1408.596059,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4315.460582,
+      "import_share_of_indigenous_plus_imports_pct": 33.0456,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2018,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 2751.919187,
+      "imports_ktoe": 1728.338064,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4480.257251,
+      "import_share_of_indigenous_plus_imports_pct": 38.5768,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2019,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 2146.950046,
+      "imports_ktoe": 2424.347744,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4571.29779,
+      "import_share_of_indigenous_plus_imports_pct": 53.0341,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2020,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 1666.262508,
+      "imports_ktoe": 2909.737435,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4575.999943,
+      "import_share_of_indigenous_plus_imports_pct": 63.5869,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2021,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 1258.158687,
+      "imports_ktoe": 3125.569235,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4383.727922,
+      "import_share_of_indigenous_plus_imports_pct": 71.2993,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2022,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 1164.67829,
+      "imports_ktoe": 3306.49191,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4471.1702,
+      "import_share_of_indigenous_plus_imports_pct": 73.9514,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2023,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 934.810299,
+      "imports_ktoe": 3215.041377,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4149.851676,
+      "import_share_of_indigenous_plus_imports_pct": 77.4736,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2024,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 876.59003,
+      "imports_ktoe": 3397.163578,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4273.753609,
+      "import_share_of_indigenous_plus_imports_pct": 79.489,
+      "source_dataset": "SEAI Energy by Fuel"
+    },
+    {
+      "year": 2025,
+      "fuel": "Natural Gas",
+      "indigenous_production_ktoe": 742.053556,
+      "imports_ktoe": 3443.665929,
+      "exports_ktoe": 0.0,
+      "primary_energy_requirement_ktoe": 4185.719484,
+      "import_share_of_indigenous_plus_imports_pct": 82.2718,
+      "source_dataset": "SEAI Energy by Fuel"
+    }
+  ],
+  "concentration": [
+    {
+      "year": 2010,
+      "hhi_0_to_1": 0.449956,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 64.4256,
+      "top_2_source": "Coal",
+      "top_2_share_pct": 13.0337,
+      "top_2_combined_share_pct": 77.4593,
+      "effective_number_of_equal_sources": 2.222
+    },
+    {
+      "year": 2011,
+      "hhi_0_to_1": 0.375707,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 56.2991,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 17.0455,
+      "top_2_combined_share_pct": 73.3446,
+      "effective_number_of_equal_sources": 2.662
+    },
+    {
+      "year": 2012,
+      "hhi_0_to_1": 0.335774,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 51.3932,
+      "top_2_source": "Coal",
+      "top_2_share_pct": 19.2301,
+      "top_2_combined_share_pct": 70.6233,
+      "effective_number_of_equal_sources": 2.978
+    },
+    {
+      "year": 2013,
+      "hhi_0_to_1": 0.327985,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 50.2535,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 18.8164,
+      "top_2_combined_share_pct": 69.0699,
+      "effective_number_of_equal_sources": 3.049
+    },
+    {
+      "year": 2014,
+      "hhi_0_to_1": 0.312569,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 47.9409,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 21.0778,
+      "top_2_combined_share_pct": 69.0187,
+      "effective_number_of_equal_sources": 3.199
+    },
+    {
+      "year": 2015,
+      "hhi_0_to_1": 0.29142,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 43.2876,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 24.6377,
+      "top_2_combined_share_pct": 67.9253,
+      "effective_number_of_equal_sources": 3.431
+    },
+    {
+      "year": 2016,
+      "hhi_0_to_1": 0.329244,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 49.8684,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 21.4256,
+      "top_2_combined_share_pct": 71.294,
+      "effective_number_of_equal_sources": 3.037
+    },
+    {
+      "year": 2017,
+      "hhi_0_to_1": 0.338806,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 50.1459,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 25.5146,
+      "top_2_combined_share_pct": 75.6605,
+      "effective_number_of_equal_sources": 2.952
+    },
+    {
+      "year": 2018,
+      "hhi_0_to_1": 0.355433,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 50.7283,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 29.3398,
+      "top_2_combined_share_pct": 80.0681,
+      "effective_number_of_equal_sources": 2.813
+    },
+    {
+      "year": 2019,
+      "hhi_0_to_1": 0.37986,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 50.6706,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 34.0894,
+      "top_2_combined_share_pct": 84.76,
+      "effective_number_of_equal_sources": 2.633
+    },
+    {
+      "year": 2020,
+      "hhi_0_to_1": 0.390764,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 49.4618,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 37.7536,
+      "top_2_combined_share_pct": 87.2154,
+      "effective_number_of_equal_sources": 2.559
+    },
+    {
+      "year": 2021,
+      "hhi_0_to_1": 0.337733,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 46.8937,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 32.5679,
+      "top_2_combined_share_pct": 79.4616,
+      "effective_number_of_equal_sources": 2.961
+    },
+    {
+      "year": 2022,
+      "hhi_0_to_1": 0.362584,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 48.1923,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 34.9734,
+      "top_2_combined_share_pct": 83.1657,
+      "effective_number_of_equal_sources": 2.758
+    },
+    {
+      "year": 2023,
+      "hhi_0_to_1": 0.385712,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 47.926,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 39.0546,
+      "top_2_combined_share_pct": 86.9806,
+      "effective_number_of_equal_sources": 2.593
+    },
+    {
+      "year": 2024,
+      "hhi_0_to_1": 0.384726,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 47.9569,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 38.9476,
+      "top_2_combined_share_pct": 86.9045,
+      "effective_number_of_equal_sources": 2.599
+    },
+    {
+      "year": 2025,
+      "hhi_0_to_1": 0.389597,
+      "top_1_source": "Gas",
+      "top_1_share_pct": 47.4932,
+      "top_2_source": "Wind",
+      "top_2_share_pct": 40.1472,
+      "top_2_combined_share_pct": 87.6404,
+      "effective_number_of_equal_sources": 2.567
+    }
+  ],
+  "operating_relationships": [
+    {
+      "year": 2010,
+      "gas_wind_corr": -0.064339,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.058072,
+      "wind_monthly_cv": 0.27181,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2011,
+      "gas_wind_corr": -0.745925,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.139653,
+      "wind_monthly_cv": 0.447656,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2012,
+      "gas_wind_corr": 0.554783,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.078954,
+      "wind_monthly_cv": 0.278624,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2013,
+      "gas_wind_corr": 0.100621,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.090517,
+      "wind_monthly_cv": 0.347148,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2014,
+      "gas_wind_corr": -0.809428,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.125534,
+      "wind_monthly_cv": 0.39756,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2015,
+      "gas_wind_corr": -0.675427,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.144181,
+      "wind_monthly_cv": 0.345271,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2016,
+      "gas_wind_corr": -0.638605,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.103168,
+      "wind_monthly_cv": 0.279044,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2017,
+      "gas_wind_corr": -0.884099,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.128234,
+      "wind_monthly_cv": 0.2429,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2018,
+      "gas_wind_corr": -0.789565,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.197347,
+      "wind_monthly_cv": 0.3857,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2019,
+      "gas_wind_corr": -0.885813,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.158716,
+      "wind_monthly_cv": 0.258302,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2020,
+      "gas_wind_corr": -0.859056,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.132638,
+      "wind_monthly_cv": 0.303995,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2021,
+      "gas_wind_corr": -0.662984,
+      "gas_solar_corr": null,
+      "wind_solar_corr": null,
+      "gas_monthly_cv": 0.119985,
+      "wind_monthly_cv": 0.379983,
+      "solar_monthly_cv": null
+    },
+    {
+      "year": 2022,
+      "gas_wind_corr": -0.89496,
+      "gas_solar_corr": 0.15033,
+      "wind_solar_corr": -0.012152,
+      "gas_monthly_cv": 0.179357,
+      "wind_monthly_cv": 0.340983,
+      "solar_monthly_cv": 1.258186
+    },
+    {
+      "year": 2023,
+      "gas_wind_corr": -0.724191,
+      "gas_solar_corr": 0.447581,
+      "wind_solar_corr": -0.864844,
+      "gas_monthly_cv": 0.111915,
+      "wind_monthly_cv": 0.287591,
+      "solar_monthly_cv": 0.661174
+    },
+    {
+      "year": 2024,
+      "gas_wind_corr": -0.231922,
+      "gas_solar_corr": -0.26491,
+      "wind_solar_corr": -0.831621,
+      "gas_monthly_cv": 0.144144,
+      "wind_monthly_cv": 0.282858,
+      "solar_monthly_cv": 0.636334
+    },
+    {
+      "year": 2025,
+      "gas_wind_corr": -0.148285,
+      "gas_solar_corr": -0.171476,
+      "wind_solar_corr": -0.912615,
+      "gas_monthly_cv": 0.147213,
+      "wind_monthly_cv": 0.263765,
+      "solar_monthly_cv": 0.611007
+    }
+  ],
+  "seasonality": [
+    {
+      "month": 1,
+      "Gas_mean": 1328.4052,
+      "Gas_min": 1237.899,
+      "Gas_max": 1454.014,
+      "Gas_std": 78.28178113520411,
+      "Wind_mean": 1080.5178,
+      "Wind_min": 951.243,
+      "Wind_max": 1211.165,
+      "Wind_std": 106.60042089832474,
+      "Solar_mean": 9.7754,
+      "Solar_min": 0.0,
+      "Solar_max": 29.302,
+      "Solar_std": 12.735800438135012
+    },
+    {
+      "month": 2,
+      "Gas_mean": 944.249,
+      "Gas_min": 784.247,
+      "Gas_max": 1154.667,
+      "Gas_std": 139.15005864353776,
+      "Wind_mean": 1328.2504,
+      "Wind_min": 1106.342,
+      "Wind_max": 1513.214,
+      "Wind_std": 175.11626728919268,
+      "Solar_mean": 13.7962,
+      "Solar_min": 0.0,
+      "Solar_max": 39.589,
+      "Solar_std": 16.606821255134893
+    },
+    {
+      "month": 3,
+      "Gas_mean": 1173.5351999999998,
+      "Gas_min": 1020.242,
+      "Gas_max": 1293.367,
+      "Gas_std": 105.37463174645023,
+      "Wind_mean": 1076.0634,
+      "Wind_min": 932.523,
+      "Wind_max": 1330.558,
+      "Wind_std": 159.99123622967605,
+      "Solar_mean": 27.953,
+      "Solar_min": 0.0,
+      "Solar_max": 88.848,
+      "Solar_std": 37.021910796175824
+    },
+    {
+      "month": 4,
+      "Gas_mean": 1185.8314,
+      "Gas_min": 1072.22,
+      "Gas_max": 1290.103,
+      "Gas_std": 82.9546672394026,
+      "Wind_mean": 825.6616,
+      "Wind_min": 641.598,
+      "Wind_max": 933.077,
+      "Wind_std": 120.53479608519694,
+      "Solar_mean": 43.967200000000005,
+      "Solar_min": 0.0,
+      "Solar_max": 120.276,
+      "Solar_std": 50.63313242532008
+    },
+    {
+      "month": 5,
+      "Gas_mean": 1234.1468,
+      "Gas_min": 988.819,
+      "Gas_max": 1421.462,
+      "Gas_std": 188.58325863845928,
+      "Wind_mean": 666.7654,
+      "Wind_min": 559.414,
+      "Wind_max": 854.119,
+      "Wind_std": 128.93739937582114,
+      "Solar_mean": 66.7422,
+      "Solar_min": 0.0,
+      "Solar_max": 174.021,
+      "Solar_std": 72.91947379952765
+    },
+    {
+      "month": 6,
+      "Gas_mean": 1186.9044,
+      "Gas_min": 947.931,
+      "Gas_max": 1388.785,
+      "Gas_std": 191.7101421412024,
+      "Wind_mean": 664.6956,
+      "Wind_min": 538.316,
+      "Wind_max": 816.876,
+      "Wind_std": 110.56730897195604,
+      "Solar_mean": 64.2702,
+      "Solar_min": 0.0,
+      "Solar_max": 141.658,
+      "Solar_std": 64.57263384902306
+    },
+    {
+      "month": 7,
+      "Gas_mean": 1321.8049999999998,
+      "Gas_min": 1158.523,
+      "Gas_max": 1556.081,
+      "Gas_std": 165.92397428792495,
+      "Wind_mean": 593.0506,
+      "Wind_min": 296.283,
+      "Wind_max": 877.043,
+      "Wind_std": 213.38627679468985,
+      "Solar_mean": 67.0518,
+      "Solar_min": 0.0,
+      "Solar_max": 159.237,
+      "Solar_std": 70.70206440196777
+    },
+    {
+      "month": 8,
+      "Gas_mean": 1250.7138,
+      "Gas_min": 964.158,
+      "Gas_max": 1636.959,
+      "Gas_std": 251.512257493944,
+      "Wind_mean": 731.346,
+      "Wind_min": 509.108,
+      "Wind_max": 948.366,
+      "Wind_std": 197.55315649211988,
+      "Solar_mean": 59.037200000000006,
+      "Solar_min": 0.0,
+      "Solar_max": 138.106,
+      "Solar_std": 60.270092813102586
+    },
+    {
+      "month": 9,
+      "Gas_mean": 1165.6152,
+      "Gas_min": 986.244,
+      "Gas_max": 1347.092,
+      "Gas_std": 131.4083317647706,
+      "Wind_mean": 755.5984000000001,
+      "Wind_min": 520.881,
+      "Wind_max": 962.787,
+      "Wind_std": 174.86258210749378,
+      "Solar_mean": 44.2352,
+      "Solar_min": 0.0,
+      "Solar_max": 101.029,
+      "Solar_std": 44.08383190808168
+    },
+    {
+      "month": 10,
+      "Gas_mean": 1115.092,
+      "Gas_min": 1022.541,
+      "Gas_max": 1216.186,
+      "Gas_std": 76.54793061539931,
+      "Wind_mean": 1041.9328,
+      "Wind_min": 836.284,
+      "Wind_max": 1250.767,
+      "Wind_std": 159.35466534651565,
+      "Solar_mean": 28.0852,
+      "Solar_min": 0.0,
+      "Solar_max": 54.313,
+      "Solar_std": 25.685449162901552
+    },
+    {
+      "month": 11,
+      "Gas_mean": 1248.0316,
+      "Gas_min": 1132.253,
+      "Gas_max": 1534.592,
+      "Gas_std": 173.881324949806,
+      "Wind_mean": 1080.7822,
+      "Wind_min": 887.718,
+      "Wind_max": 1334.786,
+      "Wind_std": 177.99817608672288,
+      "Solar_mean": 15.735,
+      "Solar_min": 0.0,
+      "Solar_max": 32.177,
+      "Solar_std": 13.971893644026926
+    },
+    {
+      "month": 12,
+      "Gas_mean": 1156.9042,
+      "Gas_min": 903.189,
+      "Gas_max": 1404.173,
+      "Gas_std": 184.22333403154988,
+      "Wind_mean": 1283.5048,
+      "Wind_min": 1029.827,
+      "Wind_max": 1539.33,
+      "Wind_std": 184.01138339434323,
+      "Solar_mean": 9.4912,
+      "Solar_min": 0.0,
+      "Solar_max": 18.818,
+      "Solar_std": 8.353373402404564
+    }
+  ],
+  "grid_2025": [
+    {
+      "period": "2025-01",
+      "gas_gwh": 1454.014,
+      "wind_gwh": 1099.702,
+      "solar_gwh": 29.276,
+      "coal_gwh": 102.176,
+      "imports_gwh": 407.328,
+      "exports_gwh": 53.027,
+      "battery_discharge_gwh": 6.823,
+      "pumped_storage_discharge_gwh": 29.327,
+      "generation_gwh": 2933.366,
+      "net_imports_gwh": 354.301,
+      "storage_discharge_gwh": 36.150000000000006,
+      "supply_proxy_gwh": 3323.817,
+      "net_import_share_proxy_pct": 10.659461697199331,
+      "wind_gas_ratio": 0.7563214659556236
+    },
+    {
+      "period": "2025-02",
+      "gas_gwh": 880.341,
+      "wind_gwh": 1476.496,
+      "solar_gwh": 39.986,
+      "coal_gwh": 58.147,
+      "imports_gwh": 443.663,
+      "exports_gwh": 85.134,
+      "battery_discharge_gwh": 4.063,
+      "pumped_storage_discharge_gwh": 25.752,
+      "generation_gwh": 2636.125,
+      "net_imports_gwh": 358.529,
+      "storage_discharge_gwh": 29.815,
+      "supply_proxy_gwh": 3024.469,
+      "net_import_share_proxy_pct": 11.854279213971116,
+      "wind_gas_ratio": 1.677186453885483
+    },
+    {
+      "period": "2025-03",
+      "gas_gwh": 1193.153,
+      "wind_gwh": 1035.746,
+      "solar_gwh": 89.335,
+      "coal_gwh": 54.704,
+      "imports_gwh": 595.215,
+      "exports_gwh": 26.701,
+      "battery_discharge_gwh": 6.678,
+      "pumped_storage_discharge_gwh": 23.062,
+      "generation_gwh": 2540.146,
+      "net_imports_gwh": 568.514,
+      "storage_discharge_gwh": 29.74,
+      "supply_proxy_gwh": 3138.4,
+      "net_import_share_proxy_pct": 18.11477185827173,
+      "wind_gas_ratio": 0.8680747565484058
+    },
+    {
+      "period": "2025-04",
+      "gas_gwh": 1141.857,
+      "wind_gwh": 782.929,
+      "solar_gwh": 120.96,
+      "coal_gwh": 125.84,
+      "imports_gwh": 497.18,
+      "exports_gwh": 25.243,
+      "battery_discharge_gwh": 6.227,
+      "pumped_storage_discharge_gwh": 24.556,
+      "generation_gwh": 2327.734,
+      "net_imports_gwh": 471.937,
+      "storage_discharge_gwh": 30.783,
+      "supply_proxy_gwh": 2830.454,
+      "net_import_share_proxy_pct": 16.673544244138927,
+      "wind_gas_ratio": 0.6856629157591537
+    },
+    {
+      "period": "2025-05",
+      "gas_gwh": 1078.353,
+      "wind_gwh": 611.85,
+      "solar_gwh": 175.361,
+      "coal_gwh": 82.969,
+      "imports_gwh": 638.559,
+      "exports_gwh": 15.02,
+      "battery_discharge_gwh": 8.668,
+      "pumped_storage_discharge_gwh": 33.201,
+      "generation_gwh": 2115.529,
+      "net_imports_gwh": 623.539,
+      "storage_discharge_gwh": 41.869,
+      "supply_proxy_gwh": 2780.9370000000004,
+      "net_import_share_proxy_pct": 22.421903121142257,
+      "wind_gas_ratio": 0.5673930521823558
+    },
+    {
+      "period": "2025-06",
+      "gas_gwh": 949.839,
+      "wind_gwh": 816.503,
+      "solar_gwh": 144.537,
+      "coal_gwh": 28.728,
+      "imports_gwh": 659.074,
+      "exports_gwh": 24.75,
+      "battery_discharge_gwh": 6.432,
+      "pumped_storage_discharge_gwh": 27.855,
+      "generation_gwh": 2050.132,
+      "net_imports_gwh": 634.324,
+      "storage_discharge_gwh": 34.287,
+      "supply_proxy_gwh": 2718.743,
+      "net_import_share_proxy_pct": 23.33151754321758,
+      "wind_gas_ratio": 0.8596225255016903
+    },
+    {
+      "period": "2025-07",
+      "gas_gwh": 1384.432,
+      "wind_gwh": 683.132,
+      "solar_gwh": 161.095,
+      "coal_gwh": 0.0,
+      "imports_gwh": 482.079,
+      "exports_gwh": 44.775,
+      "battery_discharge_gwh": 6.688,
+      "pumped_storage_discharge_gwh": 28.287,
+      "generation_gwh": 2333.861,
+      "net_imports_gwh": 437.304,
+      "storage_discharge_gwh": 34.975,
+      "supply_proxy_gwh": 2806.14,
+      "net_import_share_proxy_pct": 15.5838268938827,
+      "wind_gas_ratio": 0.493438464294382
+    },
+    {
+      "period": "2025-08",
+      "gas_gwh": 1194.778,
+      "wind_gwh": 764.773,
+      "solar_gwh": 135.654,
+      "coal_gwh": 0.0,
+      "imports_gwh": 579.123,
+      "exports_gwh": 36.664,
+      "battery_discharge_gwh": 5.113,
+      "pumped_storage_discharge_gwh": 29.417,
+      "generation_gwh": 2213.273,
+      "net_imports_gwh": 542.4590000000001,
+      "storage_discharge_gwh": 34.53,
+      "supply_proxy_gwh": 2790.262,
+      "net_import_share_proxy_pct": 19.441149254084383,
+      "wind_gas_ratio": 0.6400963191488294
+    },
+    {
+      "period": "2025-09",
+      "gas_gwh": 986.466,
+      "wind_gwh": 964.661,
+      "solar_gwh": 101.675,
+      "coal_gwh": 0.0,
+      "imports_gwh": 579.925,
+      "exports_gwh": 33.237,
+      "battery_discharge_gwh": 6.506,
+      "pumped_storage_discharge_gwh": 31.253,
+      "generation_gwh": 2231.357,
+      "net_imports_gwh": 546.688,
+      "storage_discharge_gwh": 37.759,
+      "supply_proxy_gwh": 2815.804,
+      "net_import_share_proxy_pct": 19.414987690904624,
+      "wind_gas_ratio": 0.9778958423300954
+    },
+    {
+      "period": "2025-10",
+      "gas_gwh": 1146.165,
+      "wind_gwh": 1131.392,
+      "solar_gwh": 51.259,
+      "coal_gwh": 0.0,
+      "imports_gwh": 561.375,
+      "exports_gwh": 59.23,
+      "battery_discharge_gwh": 7.592,
+      "pumped_storage_discharge_gwh": 26.635,
+      "generation_gwh": 2551.168,
+      "net_imports_gwh": 502.145,
+      "storage_discharge_gwh": 34.227000000000004,
+      "supply_proxy_gwh": 3087.54,
+      "net_import_share_proxy_pct": 16.263594965571297,
+      "wind_gas_ratio": 0.9871109307996668
+    },
+    {
+      "period": "2025-11",
+      "gas_gwh": 1293.017,
+      "wind_gwh": 1121.316,
+      "solar_gwh": 32.6,
+      "coal_gwh": 0.0,
+      "imports_gwh": 571.71,
+      "exports_gwh": 38.167,
+      "battery_discharge_gwh": 8.364,
+      "pumped_storage_discharge_gwh": 27.621,
+      "generation_gwh": 2645.987,
+      "net_imports_gwh": 533.543,
+      "storage_discharge_gwh": 35.985,
+      "supply_proxy_gwh": 3215.5150000000003,
+      "net_import_share_proxy_pct": 16.592769742949418,
+      "wind_gas_ratio": 0.8672090158134038
+    },
+    {
+      "period": "2025-12",
+      "gas_gwh": 1215.855,
+      "wind_gwh": 1293.122,
+      "solar_gwh": 18.877,
+      "coal_gwh": 0.0,
+      "imports_gwh": 595.578,
+      "exports_gwh": 39.216,
+      "battery_discharge_gwh": 11.677,
+      "pumped_storage_discharge_gwh": 27.115,
+      "generation_gwh": 2756.572,
+      "net_imports_gwh": 556.362,
+      "storage_discharge_gwh": 38.792,
+      "supply_proxy_gwh": 3351.726,
+      "net_import_share_proxy_pct": 16.599268555961913,
+      "wind_gas_ratio": 1.063549518651484
+    }
+  ],
+  "ress": [
+    {
+      "auction": "RESS 1",
+      "auction_year": 2020,
+      "all_projects_eur_mwh": 74.08,
+      "wind_eur_mwh": null,
+      "solar_eur_mwh": 72.92,
+      "note": "Solar figure is the published Solar preference-category weighted average, not a general technology-wide average.",
+      "source_url": "https://cms.eirgrid.ie/sites/default/files/publications/207158-EirGrid-Renewable-Energy-Scheme-LR5.pdf"
+    },
+    {
+      "auction": "RESS 2",
+      "auction_year": 2022,
+      "all_projects_eur_mwh": 97.87,
+      "wind_eur_mwh": null,
+      "solar_eur_mwh": null,
+      "note": "Published all-project weighted average.",
+      "source_url": "https://cms.eirgrid.ie/sites/default/files/publications/RESS-2-Final-Auction-Results-%28R2FAR%29.pdf"
+    },
+    {
+      "auction": "RESS 3",
+      "auction_year": 2023,
+      "all_projects_eur_mwh": 100.47,
+      "wind_eur_mwh": null,
+      "solar_eur_mwh": null,
+      "note": "Published all-project weighted average.",
+      "source_url": "https://cms.eirgrid.ie/sites/default/files/publications/RESS-3-Final-Auction-Results-%28R3FAR%29.pdf"
+    },
+    {
+      "auction": "RESS 4",
+      "auction_year": 2024,
+      "all_projects_eur_mwh": 96.85,
+      "wind_eur_mwh": 90.47,
+      "solar_eur_mwh": 104.76,
+      "note": "Published all-project, wind and solar weighted averages.",
+      "source_url": "https://cms.eirgrid.ie/sites/default/files/publications/RESS-4-Final-Auction-Results-R4FAR.pdf"
+    },
+    {
+      "auction": "RESS 5",
+      "auction_year": 2025,
+      "all_projects_eur_mwh": 98.79,
+      "wind_eur_mwh": 96.56,
+      "solar_eur_mwh": 100.6,
+      "note": "Published all-project, wind and solar weighted averages.",
+      "source_url": "https://cms.eirgrid.ie/sites/default/files/publications/RESS-5-Final-Auction-Results-R5FAR.pdf"
+    }
+  ],
+  "gas_cost": [
+    {
+      "efficiency_pct": 45.0,
+      "gas_price_eur_per_mwh_fuel": 20,
+      "fuel_cost_eur_per_mwh_electricity": 44.44,
+      "carbon_cost_eur_per_mwh_electricity": 33.21,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 77.65
+    },
+    {
+      "efficiency_pct": 45.0,
+      "gas_price_eur_per_mwh_fuel": 25,
+      "fuel_cost_eur_per_mwh_electricity": 55.56,
+      "carbon_cost_eur_per_mwh_electricity": 33.21,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 88.76
+    },
+    {
+      "efficiency_pct": 45.0,
+      "gas_price_eur_per_mwh_fuel": 30,
+      "fuel_cost_eur_per_mwh_electricity": 66.67,
+      "carbon_cost_eur_per_mwh_electricity": 33.21,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 99.87
+    },
+    {
+      "efficiency_pct": 45.0,
+      "gas_price_eur_per_mwh_fuel": 35,
+      "fuel_cost_eur_per_mwh_electricity": 77.78,
+      "carbon_cost_eur_per_mwh_electricity": 33.21,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 110.98
+    },
+    {
+      "efficiency_pct": 45.0,
+      "gas_price_eur_per_mwh_fuel": 40,
+      "fuel_cost_eur_per_mwh_electricity": 88.89,
+      "carbon_cost_eur_per_mwh_electricity": 33.21,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 122.1
+    },
+    {
+      "efficiency_pct": 45.0,
+      "gas_price_eur_per_mwh_fuel": 45,
+      "fuel_cost_eur_per_mwh_electricity": 100.0,
+      "carbon_cost_eur_per_mwh_electricity": 33.21,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 133.21
+    },
+    {
+      "efficiency_pct": 45.0,
+      "gas_price_eur_per_mwh_fuel": 50,
+      "fuel_cost_eur_per_mwh_electricity": 111.11,
+      "carbon_cost_eur_per_mwh_electricity": 33.21,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 144.32
+    },
+    {
+      "efficiency_pct": 45.0,
+      "gas_price_eur_per_mwh_fuel": 60,
+      "fuel_cost_eur_per_mwh_electricity": 133.33,
+      "carbon_cost_eur_per_mwh_electricity": 33.21,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 166.54
+    },
+    {
+      "efficiency_pct": 45.0,
+      "gas_price_eur_per_mwh_fuel": 80,
+      "fuel_cost_eur_per_mwh_electricity": 177.78,
+      "carbon_cost_eur_per_mwh_electricity": 33.21,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 210.98
+    },
+    {
+      "efficiency_pct": 45.0,
+      "gas_price_eur_per_mwh_fuel": 100,
+      "fuel_cost_eur_per_mwh_electricity": 222.22,
+      "carbon_cost_eur_per_mwh_electricity": 33.21,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 255.43
+    },
+    {
+      "efficiency_pct": 50.0,
+      "gas_price_eur_per_mwh_fuel": 20,
+      "fuel_cost_eur_per_mwh_electricity": 40.0,
+      "carbon_cost_eur_per_mwh_electricity": 29.89,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 69.89
+    },
+    {
+      "efficiency_pct": 50.0,
+      "gas_price_eur_per_mwh_fuel": 25,
+      "fuel_cost_eur_per_mwh_electricity": 50.0,
+      "carbon_cost_eur_per_mwh_electricity": 29.89,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 79.89
+    },
+    {
+      "efficiency_pct": 50.0,
+      "gas_price_eur_per_mwh_fuel": 30,
+      "fuel_cost_eur_per_mwh_electricity": 60.0,
+      "carbon_cost_eur_per_mwh_electricity": 29.89,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 89.89
+    },
+    {
+      "efficiency_pct": 50.0,
+      "gas_price_eur_per_mwh_fuel": 35,
+      "fuel_cost_eur_per_mwh_electricity": 70.0,
+      "carbon_cost_eur_per_mwh_electricity": 29.89,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 99.89
+    },
+    {
+      "efficiency_pct": 50.0,
+      "gas_price_eur_per_mwh_fuel": 40,
+      "fuel_cost_eur_per_mwh_electricity": 80.0,
+      "carbon_cost_eur_per_mwh_electricity": 29.89,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 109.89
+    },
+    {
+      "efficiency_pct": 50.0,
+      "gas_price_eur_per_mwh_fuel": 45,
+      "fuel_cost_eur_per_mwh_electricity": 90.0,
+      "carbon_cost_eur_per_mwh_electricity": 29.89,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 119.89
+    },
+    {
+      "efficiency_pct": 50.0,
+      "gas_price_eur_per_mwh_fuel": 50,
+      "fuel_cost_eur_per_mwh_electricity": 100.0,
+      "carbon_cost_eur_per_mwh_electricity": 29.89,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 129.89
+    },
+    {
+      "efficiency_pct": 50.0,
+      "gas_price_eur_per_mwh_fuel": 60,
+      "fuel_cost_eur_per_mwh_electricity": 120.0,
+      "carbon_cost_eur_per_mwh_electricity": 29.89,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 149.89
+    },
+    {
+      "efficiency_pct": 50.0,
+      "gas_price_eur_per_mwh_fuel": 80,
+      "fuel_cost_eur_per_mwh_electricity": 160.0,
+      "carbon_cost_eur_per_mwh_electricity": 29.89,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 189.89
+    },
+    {
+      "efficiency_pct": 50.0,
+      "gas_price_eur_per_mwh_fuel": 100,
+      "fuel_cost_eur_per_mwh_electricity": 200.0,
+      "carbon_cost_eur_per_mwh_electricity": 29.89,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 229.89
+    },
+    {
+      "efficiency_pct": 55.00000000000001,
+      "gas_price_eur_per_mwh_fuel": 20,
+      "fuel_cost_eur_per_mwh_electricity": 36.36,
+      "carbon_cost_eur_per_mwh_electricity": 27.17,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 63.53
+    },
+    {
+      "efficiency_pct": 55.00000000000001,
+      "gas_price_eur_per_mwh_fuel": 25,
+      "fuel_cost_eur_per_mwh_electricity": 45.45,
+      "carbon_cost_eur_per_mwh_electricity": 27.17,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 72.62
+    },
+    {
+      "efficiency_pct": 55.00000000000001,
+      "gas_price_eur_per_mwh_fuel": 30,
+      "fuel_cost_eur_per_mwh_electricity": 54.55,
+      "carbon_cost_eur_per_mwh_electricity": 27.17,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 81.71
+    },
+    {
+      "efficiency_pct": 55.00000000000001,
+      "gas_price_eur_per_mwh_fuel": 35,
+      "fuel_cost_eur_per_mwh_electricity": 63.64,
+      "carbon_cost_eur_per_mwh_electricity": 27.17,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 90.81
+    },
+    {
+      "efficiency_pct": 55.00000000000001,
+      "gas_price_eur_per_mwh_fuel": 40,
+      "fuel_cost_eur_per_mwh_electricity": 72.73,
+      "carbon_cost_eur_per_mwh_electricity": 27.17,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 99.9
+    },
+    {
+      "efficiency_pct": 55.00000000000001,
+      "gas_price_eur_per_mwh_fuel": 45,
+      "fuel_cost_eur_per_mwh_electricity": 81.82,
+      "carbon_cost_eur_per_mwh_electricity": 27.17,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 108.99
+    },
+    {
+      "efficiency_pct": 55.00000000000001,
+      "gas_price_eur_per_mwh_fuel": 50,
+      "fuel_cost_eur_per_mwh_electricity": 90.91,
+      "carbon_cost_eur_per_mwh_electricity": 27.17,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 118.08
+    },
+    {
+      "efficiency_pct": 55.00000000000001,
+      "gas_price_eur_per_mwh_fuel": 60,
+      "fuel_cost_eur_per_mwh_electricity": 109.09,
+      "carbon_cost_eur_per_mwh_electricity": 27.17,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 136.26
+    },
+    {
+      "efficiency_pct": 55.00000000000001,
+      "gas_price_eur_per_mwh_fuel": 80,
+      "fuel_cost_eur_per_mwh_electricity": 145.45,
+      "carbon_cost_eur_per_mwh_electricity": 27.17,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 172.62
+    },
+    {
+      "efficiency_pct": 55.00000000000001,
+      "gas_price_eur_per_mwh_fuel": 100,
+      "fuel_cost_eur_per_mwh_electricity": 181.82,
+      "carbon_cost_eur_per_mwh_electricity": 27.17,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 208.99
+    },
+    {
+      "efficiency_pct": 60.0,
+      "gas_price_eur_per_mwh_fuel": 20,
+      "fuel_cost_eur_per_mwh_electricity": 33.33,
+      "carbon_cost_eur_per_mwh_electricity": 24.91,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 58.24
+    },
+    {
+      "efficiency_pct": 60.0,
+      "gas_price_eur_per_mwh_fuel": 25,
+      "fuel_cost_eur_per_mwh_electricity": 41.67,
+      "carbon_cost_eur_per_mwh_electricity": 24.91,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 66.57
+    },
+    {
+      "efficiency_pct": 60.0,
+      "gas_price_eur_per_mwh_fuel": 30,
+      "fuel_cost_eur_per_mwh_electricity": 50.0,
+      "carbon_cost_eur_per_mwh_electricity": 24.91,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 74.91
+    },
+    {
+      "efficiency_pct": 60.0,
+      "gas_price_eur_per_mwh_fuel": 35,
+      "fuel_cost_eur_per_mwh_electricity": 58.33,
+      "carbon_cost_eur_per_mwh_electricity": 24.91,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 83.24
+    },
+    {
+      "efficiency_pct": 60.0,
+      "gas_price_eur_per_mwh_fuel": 40,
+      "fuel_cost_eur_per_mwh_electricity": 66.67,
+      "carbon_cost_eur_per_mwh_electricity": 24.91,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 91.57
+    },
+    {
+      "efficiency_pct": 60.0,
+      "gas_price_eur_per_mwh_fuel": 45,
+      "fuel_cost_eur_per_mwh_electricity": 75.0,
+      "carbon_cost_eur_per_mwh_electricity": 24.91,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 99.91
+    },
+    {
+      "efficiency_pct": 60.0,
+      "gas_price_eur_per_mwh_fuel": 50,
+      "fuel_cost_eur_per_mwh_electricity": 83.33,
+      "carbon_cost_eur_per_mwh_electricity": 24.91,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 108.24
+    },
+    {
+      "efficiency_pct": 60.0,
+      "gas_price_eur_per_mwh_fuel": 60,
+      "fuel_cost_eur_per_mwh_electricity": 100.0,
+      "carbon_cost_eur_per_mwh_electricity": 24.91,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 124.91
+    },
+    {
+      "efficiency_pct": 60.0,
+      "gas_price_eur_per_mwh_fuel": 80,
+      "fuel_cost_eur_per_mwh_electricity": 133.33,
+      "carbon_cost_eur_per_mwh_electricity": 24.91,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 158.24
+    },
+    {
+      "efficiency_pct": 60.0,
+      "gas_price_eur_per_mwh_fuel": 100,
+      "fuel_cost_eur_per_mwh_electricity": 166.67,
+      "carbon_cost_eur_per_mwh_electricity": 24.91,
+      "fuel_plus_carbon_eur_per_mwh_electricity": 191.57
+    }
+  ],
+  "evidence": [
+    {
+      "question": "Did total domestic generation expand dramatically?",
+      "finding": "No. It rose about 10% from 2010 to 2025.",
+      "evidence_strength": "High",
+      "interpretation": "Observed long-run generation series."
+    },
+    {
+      "question": "Did the generation mix transform?",
+      "finding": "Yes. Wind rose strongly while coal and peat declined.",
+      "evidence_strength": "High",
+      "interpretation": "Observed source-specific generation."
+    },
+    {
+      "question": "Is the system concentrated around wind and gas?",
+      "finding": "Yes. They supplied about 87.6% of the 2025 long-run domestic generation series.",
+      "evidence_strength": "High",
+      "interpretation": "Derived from observed generation."
+    },
+    {
+      "question": "Does gas appear to counterbalance wind every month?",
+      "finding": "Not consistently. The monthly gas\u2013wind correlation varies materially by year.",
+      "evidence_strength": "Moderate",
+      "interpretation": "Descriptive correlation; no causal claim."
+    },
+    {
+      "question": "Is wind and solar seasonality complementary?",
+      "finding": "Strongly in recent monthly data, but the sample is small and weather-dependent.",
+      "evidence_strength": "Moderate",
+      "interpretation": "Descriptive monthly profiles/correlation."
+    },
+    {
+      "question": "Has public thermal efficiency improved?",
+      "finding": "Yes, from about 45.5% to 49.5% between 2010 and 2025.",
+      "evidence_strength": "High",
+      "interpretation": "Derived from National Energy Balance inputs/outputs."
+    },
+    {
+      "question": "Is thermal generation more gas-concentrated?",
+      "finding": "Yes. Gas rose to about 81% of public thermal fuel input in 2025.",
+      "evidence_strength": "High",
+      "interpretation": "Derived from National Energy Balance."
+    },
+    {
+      "question": "Is domestically generated power fully indigenous?",
+      "finding": "No. Much of thermal generation uses imported fuel, especially gas.",
+      "evidence_strength": "High",
+      "interpretation": "Energy-by-fuel origin data and SEAI security reporting."
+    },
+    {
+      "question": "Are direct electricity imports becoming more important?",
+      "finding": "Yes. Net imports rose sharply from 2023 to 2025.",
+      "evidence_strength": "High",
+      "interpretation": "CSO annual grid-supply data."
+    },
+    {
+      "question": "Can we quote one universal cost per MWh for gas, wind and solar?",
+      "finding": "No. The economic concepts differ and plant-specific costs are not public.",
+      "evidence_strength": "High limitation",
+      "interpretation": "Use sensitivity and auction benchmarks instead of false equivalence."
+    }
+  ]
+}

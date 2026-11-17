@@ -1,0 +1,11 @@
+question,finding,evidence_strength,interpretation
+Did total domestic generation expand dramatically?,No. It rose about 10% from 2010 to 2025.,High,Observed long-run generation series.
+Did the generation mix transform?,Yes. Wind rose strongly while coal and peat declined.,High,Observed source-specific generation.
+Is the system concentrated around wind and gas?,Yes. They supplied about 87.6% of the 2025 long-run domestic generation series.,High,Derived from observed generation.
+Does gas appear to counterbalance wind every month?,Not consistently. The monthly gas–wind correlation varies materially by year.,Moderate,Descriptive correlation; no causal claim.
+Is wind and solar seasonality complementary?,"Strongly in recent monthly data, but the sample is small and weather-dependent.",Moderate,Descriptive monthly profiles/correlation.
+Has public thermal efficiency improved?,"Yes, from about 45.5% to 49.5% between 2010 and 2025.",High,Derived from National Energy Balance inputs/outputs.
+Is thermal generation more gas-concentrated?,Yes. Gas rose to about 81% of public thermal fuel input in 2025.,High,Derived from National Energy Balance.
+Is domestically generated power fully indigenous?,"No. Much of thermal generation uses imported fuel, especially gas.",High,Energy-by-fuel origin data and SEAI security reporting.
+Are direct electricity imports becoming more important?,Yes. Net imports rose sharply from 2023 to 2025.,High,CSO annual grid-supply data.
+"Can we quote one universal cost per MWh for gas, wind and solar?",No. The economic concepts differ and plant-specific costs are not public.,High limitation,Use sensitivity and auction benchmarks instead of false equivalence.

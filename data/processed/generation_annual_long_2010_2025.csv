@@ -1,0 +1,161 @@
+year,source,source_group,generation_gwh,share_pct
+2010,Coal,Fossil,3471.311,13.0337
+2010,Gas,Fossil,17158.707,64.4256
+2010,Oil,Fossil,306.267,1.1499
+2010,Peat & Biomass,Mixed,2087.526,7.838
+2010,Waste,Mixed,0.0,0.0
+2010,Combustible Renewables,Renewable,0.0,0.0
+2010,Hydro,Renewable,551.416,2.0704
+2010,Solar,Renewable,0.0,0.0
+2010,Wind,Renewable,2807.145,10.5399
+2010,Other,Other,251.009,0.9425
+2011,Coal,Fossil,3836.392,14.9629
+2011,Gas,Fossil,14434.736,56.2991
+2011,Oil,Fossil,74.159,0.2892
+2011,Peat & Biomass,Mixed,2075.013,8.0931
+2011,Waste,Mixed,0.0,0.0
+2011,Combustible Renewables,Renewable,0.0,0.0
+2011,Hydro,Renewable,679.869,2.6517
+2011,Solar,Renewable,0.0,0.0
+2011,Wind,Renewable,4370.349,17.0455
+2011,Other,Other,168.855,0.6586
+2012,Coal,Fossil,4892.505,19.2301
+2012,Gas,Fossil,13075.416,51.3932
+2012,Oil,Fossil,37.661,0.148
+2012,Peat & Biomass,Mixed,2414.352,9.4897
+2012,Waste,Mixed,101.597,0.3993
+2012,Combustible Renewables,Renewable,0.0,0.0
+2012,Hydro,Renewable,760.587,2.9895
+2012,Solar,Renewable,0.0,0.0
+2012,Wind,Renewable,3999.419,15.7198
+2012,Other,Other,160.404,0.6305
+2013,Coal,Fossil,4176.009,17.3472
+2013,Gas,Fossil,12097.543,50.2535
+2013,Oil,Fossil,30.277,0.1258
+2013,Peat & Biomass,Mixed,2316.822,9.6241
+2013,Waste,Mixed,123.112,0.5114
+2013,Combustible Renewables,Renewable,0.0,0.0
+2013,Hydro,Renewable,572.715,2.3791
+2013,Solar,Renewable,0.0,0.0
+2013,Wind,Renewable,4529.678,18.8164
+2013,Other,Other,226.878,0.9425
+2014,Coal,Fossil,3933.536,16.2069
+2014,Gas,Fossil,11635.577,47.9409
+2014,Oil,Fossil,18.888,0.0778
+2014,Peat & Biomass,Mixed,2559.953,10.5475
+2014,Waste,Mixed,126.722,0.5221
+2014,Combustible Renewables,Renewable,0.0,0.0
+2014,Hydro,Renewable,701.48,2.8902
+2014,Solar,Renewable,0.0,0.0
+2014,Wind,Renewable,5115.717,21.0778
+2014,Other,Other,178.819,0.7368
+2015,Coal,Fossil,4842.788,18.2532
+2015,Gas,Fossil,11484.684,43.2876
+2015,Oil,Fossil,33.521,0.1263
+2015,Peat & Biomass,Mixed,2522.678,9.5084
+2015,Waste,Mixed,135.005,0.5089
+2015,Combustible Renewables,Renewable,177.432,0.6688
+2015,Hydro,Renewable,798.307,3.0089
+2015,Solar,Renewable,0.0,0.0
+2015,Wind,Renewable,6536.655,24.6377
+2015,Other,Other,0.036,0.0001
+2016,Coal,Fossil,4624.627,16.2038
+2016,Gas,Fossil,14232.623,49.8684
+2016,Oil,Fossil,66.417,0.2327
+2016,Peat & Biomass,Mixed,2516.074,8.8158
+2016,Waste,Mixed,130.29,0.4565
+2016,Combustible Renewables,Renewable,181.209,0.6349
+2016,Hydro,Renewable,674.15,2.3621
+2016,Solar,Renewable,0.0,0.0
+2016,Wind,Renewable,6114.939,21.4256
+2016,Other,Other,0.024,0.0001
+2017,Coal,Fossil,3552.868,12.2374
+2017,Gas,Fossil,14558.834,50.1459
+2017,Oil,Fossil,22.207,0.0765
+2017,Peat & Biomass,Mixed,2356.374,8.1162
+2017,Waste,Mixed,275.109,0.9476
+2017,Combustible Renewables,Renewable,175.311,0.6038
+2017,Hydro,Renewable,684.555,2.3579
+2017,Solar,Renewable,0.0,0.0
+2017,Wind,Renewable,7407.64,25.5146
+2017,Other,Other,0.024,0.0001
+2018,Coal,Fossil,2108.104,7.192
+2018,Gas,Fossil,14869.313,50.7283
+2018,Oil,Fossil,53.817,0.1836
+2018,Peat & Biomass,Mixed,2247.671,7.6682
+2018,Waste,Mixed,564.176,1.9247
+2018,Combustible Renewables,Renewable,181.537,0.6193
+2018,Hydro,Renewable,687.043,2.3439
+2018,Solar,Renewable,0.0,0.0
+2018,Wind,Renewable,8600.001,29.3398
+2018,Other,Other,0.015,0.0001
+2019,Coal,Fossil,577.628,1.9755
+2019,Gas,Fossil,14815.664,50.6706
+2019,Oil,Fossil,131.403,0.4494
+2019,Peat & Biomass,Mixed,2105.878,7.2022
+2019,Waste,Mixed,546.916,1.8705
+2019,Combustible Renewables,Renewable,211.641,0.7238
+2019,Hydro,Renewable,877.541,3.0012
+2019,Solar,Renewable,0.0,0.0
+2019,Wind,Renewable,9967.473,34.0894
+2019,Other,Other,5.045,0.0173
+2020,Coal,Fossil,764.682,2.5113
+2020,Gas,Fossil,15061.112,49.4618
+2020,Oil,Fossil,224.259,0.7365
+2020,Peat & Biomass,Mixed,1221.814,4.0125
+2020,Waste,Mixed,554.85,1.8222
+2020,Combustible Renewables,Renewable,184.648,0.6064
+2020,Hydro,Renewable,923.164,3.0317
+2020,Solar,Renewable,0.0,0.0
+2020,Wind,Renewable,11495.982,37.7536
+2020,Other,Other,19.492,0.064
+2021,Coal,Fossil,2780.314,9.3173
+2021,Gas,Fossil,13993.189,46.8937
+2021,Oil,Fossil,1159.376,3.8853
+2021,Peat & Biomass,Mixed,682.205,2.2862
+2021,Waste,Mixed,604.17,2.0247
+2021,Combustible Renewables,Renewable,143.087,0.4795
+2021,Hydro,Renewable,741.752,2.4857
+2021,Solar,Renewable,0.0,0.0
+2021,Wind,Renewable,9718.352,32.5679
+2021,Other,Other,17.802,0.0597
+2022,Coal,Fossil,2520.08,7.9059
+2022,Gas,Fossil,15361.811,48.1923
+2022,Oil,Fossil,720.091,2.259
+2022,Peat & Biomass,Mixed,650.208,2.0398
+2022,Waste,Mixed,590.631,1.8529
+2022,Combustible Renewables,Renewable,162.339,0.5093
+2022,Hydro,Renewable,694.012,2.1772
+2022,Solar,Renewable,13.136,0.0412
+2022,Wind,Renewable,11148.149,34.9734
+2022,Other,Other,15.581,0.0489
+2023,Coal,Fossil,1216.49,4.0922
+2023,Gas,Fossil,14247.034,47.926
+2023,Oil,Fossil,117.752,0.3961
+2023,Peat & Biomass,Mixed,417.507,1.4045
+2023,Waste,Mixed,593.587,1.9968
+2023,Combustible Renewables,Renewable,163.746,0.5508
+2023,Hydro,Renewable,933.059,3.1387
+2023,Solar,Renewable,413.768,1.3919
+2023,Wind,Renewable,11609.813,39.0546
+2023,Other,Other,14.382,0.0484
+2024,Coal,Fossil,946.218,3.233
+2024,Gas,Fossil,14035.753,47.9569
+2024,Oil,Fossil,200.921,0.6865
+2024,Peat & Biomass,Mixed,456.59,1.5601
+2024,Waste,Mixed,578.973,1.9782
+2024,Combustible Renewables,Renewable,148.976,0.509
+2024,Hydro,Renewable,758.301,2.5909
+2024,Solar,Renewable,730.566,2.4962
+2024,Wind,Renewable,11398.96,38.9476
+2024,Other,Other,12.151,0.0415
+2025,Coal,Fossil,452.565,1.5443
+2025,Gas,Fossil,13918.382,47.4932
+2025,Oil,Fossil,202.288,0.6903
+2025,Peat & Biomass,Mixed,488.071,1.6654
+2025,Waste,Mixed,584.189,1.9934
+2025,Combustible Renewables,Renewable,150.253,0.5127
+2025,Hydro,Renewable,640.607,2.1859
+2025,Solar,Renewable,1093.229,3.7304
+2025,Wind,Renewable,11765.571,40.1472
+2025,Other,Other,10.906,0.0372

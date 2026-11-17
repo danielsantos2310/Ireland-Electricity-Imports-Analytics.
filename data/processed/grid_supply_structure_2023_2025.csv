@@ -1,0 +1,4 @@
+year,generation_gwh,net_imports_gwh,storage_discharge_gwh,total_supply_gwh,generation_share_pct,net_import_share_pct,storage_share_pct,battery_discharge_gwh,pumped_storage_discharge_gwh
+2023,29727.0,3275.0,299.0,33301.0,89.268,9.835,0.898,7.0,292.0
+2024,29267.0,5061.0,356.0,34684.0,84.382,14.592,1.026,27.0,329.0
+2025,29335.0,6130.0,419.0,35884.0,81.75,17.083,1.168,85.0,334.0

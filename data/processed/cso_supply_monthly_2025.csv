@@ -1,0 +1,229 @@
+period,year,month,item,value_gwh,original_unit,source_dataset
+2025-01,2025,1,Coal,102.176,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Oil,27.84,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Hydrogenated Vegetable Oil,0.31,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Biomass,54.443,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Gas,1454.014,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Distillate,10.407,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Waste,53.472,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Wind,1099.702,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Solar,29.276,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Renewable Hydro,87.398,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Pump Storage Discharging,29.327,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Battery Discharging,6.823,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Other Renewable,14.329,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Other Non-Renewable,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Total Generation,2933.366,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Pump Storage Charging,-43.419,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Battery Charging,-11.303,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Imports,407.328,MWh,CSO ESSA02 Electricity Supply
+2025-01,2025,1,Exports,-53.027,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Coal,58.147,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Oil,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Hydrogenated Vegetable Oil,0.152,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Biomass,42.066,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Gas,880.341,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Distillate,7.735,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Waste,40.46,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Wind,1476.496,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Solar,39.986,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Renewable Hydro,77.034,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Pump Storage Discharging,25.752,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Battery Discharging,4.063,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Other Renewable,13.709,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Other Non-Renewable,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Total Generation,2636.125,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Pump Storage Charging,-39.963,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Battery Charging,-7.944,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Imports,443.663,MWh,CSO ESSA02 Electricity Supply
+2025-02,2025,2,Exports,-85.134,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Coal,54.704,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Oil,21.356,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Hydrogenated Vegetable Oil,0.118,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Biomass,57.552,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Gas,1193.153,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Distillate,6.124,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Waste,21.052,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Wind,1035.746,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Solar,89.335,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Renewable Hydro,45.163,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Pump Storage Discharging,23.062,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Battery Discharging,6.678,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Other Renewable,15.844,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Other Non-Renewable,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Total Generation,2540.146,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Pump Storage Charging,-32.995,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Battery Charging,-11.477,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Imports,595.215,MWh,CSO ESSA02 Electricity Supply
+2025-03,2025,3,Exports,-26.701,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Coal,125.84,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Oil,22.97,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Hydrogenated Vegetable Oil,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Biomass,41.447,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Gas,1141.857,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Distillate,4.118,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Waste,39.128,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Wind,782.929,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Solar,120.96,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Renewable Hydro,34.395,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Pump Storage Discharging,24.556,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Battery Discharging,6.227,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Other Renewable,14.089,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Other Non-Renewable,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Total Generation,2327.734,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Pump Storage Charging,-33.858,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Battery Charging,-10.323,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Imports,497.18,MWh,CSO ESSA02 Electricity Supply
+2025-04,2025,4,Exports,-25.243,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Coal,82.969,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Oil,27.37,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Hydrogenated Vegetable Oil,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Biomass,41.077,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Gas,1078.353,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Distillate,6.479,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Waste,52.14,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Wind,611.85,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Solar,175.361,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Renewable Hydro,25.875,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Pump Storage Discharging,33.201,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Battery Discharging,8.668,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Other Renewable,14.055,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Other Non-Renewable,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Total Generation,2115.529,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Pump Storage Charging,-46.453,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Battery Charging,-13.717,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Imports,638.559,MWh,CSO ESSA02 Electricity Supply
+2025-05,2025,5,Exports,-15.02,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Coal,28.728,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Oil,0.001,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Hydrogenated Vegetable Oil,0.158,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Biomass,19.603,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Gas,949.839,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Distillate,2.153,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Waste,54.115,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Wind,816.503,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Solar,144.537,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Renewable Hydro,21.903,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Pump Storage Discharging,27.855,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Battery Discharging,6.432,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Other Renewable,12.592,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Other Non-Renewable,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Total Generation,2050.132,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Pump Storage Charging,-41.431,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Battery Charging,-11.084,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Imports,659.074,MWh,CSO ESSA02 Electricity Supply
+2025-06,2025,6,Exports,-24.75,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Coal,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Oil,0.001,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Hydrogenated Vegetable Oil,0.928,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Biomass,13.279,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Gas,1384.432,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Distillate,0.698,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Waste,57.722,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Wind,683.132,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Solar,161.095,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Renewable Hydro,19.16,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Pump Storage Discharging,28.287,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Battery Discharging,6.688,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Other Renewable,13.414,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Other Non-Renewable,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Total Generation,2333.861,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Pump Storage Charging,-41.536,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Battery Charging,-11.895,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Imports,482.079,MWh,CSO ESSA02 Electricity Supply
+2025-07,2025,7,Exports,-44.775,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Coal,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Oil,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Hydrogenated Vegetable Oil,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Biomass,45.28,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Gas,1194.778,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Distillate,0.633,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Waste,51.332,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Wind,764.773,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Solar,135.654,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Renewable Hydro,7.081,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Pump Storage Discharging,29.417,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Battery Discharging,5.113,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Other Renewable,13.742,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Other Non-Renewable,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Total Generation,2213.273,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Pump Storage Charging,-42.311,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Battery Charging,-10.008,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Imports,579.123,MWh,CSO ESSA02 Electricity Supply
+2025-08,2025,8,Exports,-36.664,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Coal,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Oil,9.079,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Hydrogenated Vegetable Oil,1.965,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Biomass,42.728,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Gas,986.466,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Distillate,1.473,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Waste,55.176,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Wind,964.661,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Solar,101.675,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Renewable Hydro,55.819,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Pump Storage Discharging,31.253,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Battery Discharging,6.506,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Other Renewable,12.316,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Other Non-Renewable,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Total Generation,2231.357,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Pump Storage Charging,-43.606,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Battery Charging,-10.971,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Imports,579.925,MWh,CSO ESSA02 Electricity Supply
+2025-09,2025,9,Exports,-33.237,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Coal,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Oil,9.383,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Hydrogenated Vegetable Oil,0.597,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Biomass,50.974,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Gas,1146.165,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Distillate,7.369,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Waste,57.097,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Wind,1131.392,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Solar,51.259,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Renewable Hydro,83.507,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Pump Storage Discharging,26.635,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Battery Discharging,7.592,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Other Renewable,13.426,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Other Non-Renewable,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Total Generation,2551.168,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Pump Storage Charging,-38.072,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Battery Charging,-12.097,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Imports,561.375,MWh,CSO ESSA02 Electricity Supply
+2025-10,2025,10,Exports,-59.23,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Coal,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Oil,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Hydrogenated Vegetable Oil,1.062,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Biomass,42.762,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Gas,1293.017,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Distillate,4.909,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Waste,49.122,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Wind,1121.316,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Solar,32.6,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Renewable Hydro,87.255,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Pump Storage Discharging,27.621,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Battery Discharging,8.364,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Other Renewable,13.943,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Other Non-Renewable,0.001,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Total Generation,2645.987,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Pump Storage Charging,-40.448,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Battery Charging,-13.147,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Imports,571.71,MWh,CSO ESSA02 Electricity Supply
+2025-11,2025,11,Exports,-38.167,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Coal,0.0,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Oil,23.893,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Hydrogenated Vegetable Oil,1.382,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Biomass,37.766,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Gas,1215.855,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Distillate,1.628,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Waste,53.374,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Wind,1293.122,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Solar,18.877,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Renewable Hydro,96.737,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Pump Storage Discharging,27.115,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Battery Discharging,11.677,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Other Renewable,13.939,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Other Non-Renewable,0.001,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Total Generation,2756.572,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Pump Storage Charging,-39.25,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Battery Charging,-16.787,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Imports,595.578,MWh,CSO ESSA02 Electricity Supply
+2025-12,2025,12,Exports,-39.216,MWh,CSO ESSA02 Electricity Supply
